@@ -1,21 +1,12 @@
 <!DOCTYPE html>
-<!-- saved from url=(0030)https://forum.mtaprovincex.ru/ -->
-<html lang="ru-RU" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Форумы - Lunik MC</title>
+<!-- saved from url=(0029)https://ipb.stylesfactory.pl/ -->
+<html lang="en-US" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
-			<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="./Форумы - Lunik MC_files/js"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-4YHMFDR4YV');
-</script>
+        
+		<title>Forums - Lunik MC</title>
 		
-		<!--[if lt IE 9]>
-			
-		    <script src="//forum.mtaprovincex.ru/applications/core/interface/html5shiv/html5shiv.js"></script>
-		<![endif]-->
+		
+		
 		
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,7 +23,7 @@
 	
 		
 			
-				<meta property="og:title" content="Province X">
+				<meta property="og:title" content="Invision Community Demo for StylesFactory.pl">
 			
 		
 	
@@ -48,7 +39,7 @@
 	
 		
 			
-				<meta property="og:url" content="https://forum.mtaprovincex.ru">
+				<meta property="og:url" content="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">
 			
 		
 	
@@ -56,7 +47,7 @@
 	
 		
 			
-				<meta property="og:site_name" content="Province X">
+				<meta property="og:site_name" content="Invision Community Demo for StylesFactory.pl">
 			
 		
 	
@@ -64,28 +55,26 @@
 	
 		
 			
-				<meta property="og:locale" content="ru_RU">
+				<meta property="og:locale" content="en_US">
 			
 		
 	
 
 
 	
-		<link rel="canonical" href="https://forum.mtaprovincex.ru/">
+		<link rel="canonical" href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">
 	
 
 
 
 
-<link rel="manifest" href="https://forum.mtaprovincex.ru/manifest.webmanifest/">
-<meta name="msapplication-config" content="https://forum.mtaprovincex.ru/browserconfig.xml/">
+<link rel="manifest" href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=metatags&amp;do=manifest">
+<meta name="msapplication-config" content="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=metatags&amp;do=iebrowserconfig">
 <meta name="msapplication-starturl" content="/">
-<meta name="application-name" content="Province X">
+<meta name="application-name" content="Invision Community Demo for StylesFactory.pl">
+<meta name="apple-mobile-web-app-title" content="Invision Community Demo for StylesFactory.pl">
 
-<meta name="apple-mobile-web-app-title" content="Province X">
-
-	<meta name="theme-color" content="#1e2026">
-
+	<meta name="theme-color" content="#f8f9f9">
 
 
 
@@ -95,109 +84,330 @@
 
 
 
-<link rel="preload" href="https://forum.mtaprovincex.ru/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
+
+<link rel="preload" href="https://ipb.stylesfactory.pl/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
 		
+
 
 	
-		
-			
-				<link href="./Форумы - Lunik MC_files/css" rel="stylesheet" referrerpolicy="origin">
-			
-		
+		<link href="./Forums - Lunik MC_files/css" rel="stylesheet" referrerpolicy="origin">
 	
 
 
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/341e4a57816af3ba440d891ca87450ff_framework.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/341e4a57816af3ba440d891ca87450ff_framework.css" media="all">
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/05e81b71abe4f22d6eb8d1a929494829_responsive.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/05e81b71abe4f22d6eb8d1a929494829_responsive.css" media="all">
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/20446cf2d164adcc029377cb04d43d17_flags.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/90eb5adf50a8c640f633d47fd7eb1778_core.css" media="all">
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/90eb5adf50a8c640f633d47fd7eb1778_core.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css" media="all">
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/62e269ced0fdab7e30e026f1d30ae516_forums.css" media="all">
 
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/62e269ced0fdab7e30e026f1d30ae516_forums.css" media="all">
-
-	<link rel="stylesheet" href="./Форумы - Lunik MC_files/76e62c573090645fb99a15a363d8620e_forums_responsive.css" media="all">
+	<link rel="stylesheet" href="./Forums - Lunik MC_files/76e62c573090645fb99a15a363d8620e_forums_responsive.css" media="all">
 
 
 
 
-<link rel="stylesheet" href="./Форумы - Lunik MC_files/258adbb6e4f3e83cd3b355f84e3fa002_custom.css" media="all">
+
+<link rel="stylesheet" href="./Forums - Lunik MC_files/258adbb6e4f3e83cd3b355f84e3fa002_custom.css" media="all">
+
 
 
 
 		
 		
 
-	
-	<link rel="shortcut icon" href="https://forum.mtaprovincex.ru/uploads/monthly_2021_10/prx.ico" type="image/x-icon">
-
-       </head><body class="ipsApp ipsApp_front ipsClearfix ipsJS_has ipsApp_noTouch cWithGuestTerms" data-controller="core.front.core.app" data-message="" data-pageapp="forums" data-pagelocation="front" data-pagemodule="forums" data-pagecontroller="index"><div style="position:absolute; padding-top:0; right:0;">  
-      </div>
-    <style>
-        .perelivjulia {
-          font-weight: 600;
-          background: linear-gradient(270deg, #FF6394, #EAD2C5, #FFE4AD, #EFA4F4, #E360A0, #FFCCCC);
-          background-size: 400% 400% !important;
-          animation: gradient 4s ease infinite;
-          background-clip: text;
-          -webkit-background-clip: text; 
-          -webkit-text-fill-color: transparent; 
-		}
-        .pereliv {
-          font-weight: 600;
-          background: linear-gradient(270deg, #37c72e, #cdb723, #e60be2, #0cabba, #fff400);
-          background-size: 400% 400% !important;
-          animation: gradient 4s ease infinite;
-          background-clip: text;
-          -webkit-background-clip: text; 
-          -webkit-text-fill-color: transparent; 
-		}
-        .perelivlos {
-          font-weight: 600;
-          background: linear-gradient(270deg, #ffffff, #FF0000, #ffffff, #4169E1, #ffffff);
-          background-size: 400% 400% !important;
-          animation: gradient 4s ease infinite;
-          background-clip: text;
-          -webkit-background-clip: text; 
-          -webkit-text-fill-color: transparent; 
-		}
+      	
+       	<link href="./Forums - Lunik MC_files/84c1e40ea0e759e3f1505eb1788ddf3c_aos.css" rel="stylesheet">
+        <script src="./Forums - Lunik MC_files/84c1e40ea0e759e3f1505eb1788ddf3c_aos.js.завантаження"></script>
+		
+        
+      	<link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+        <link href="./Forums - Lunik MC_files/css2" rel="stylesheet">
+	</head>
+	<body class="ipsApp ipsApp_front ipsJS_has ipsClearfix ipsApp_noTouch ipsLayout_sidebarUsed" data-controller="core.front.core.app" data-message="" data-pageapp="forums" data-pagelocation="front" data-pagemodule="forums" data-pagecontroller="index" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+		
+        
       
-@keyframes gradient {
-    0% {
-        background-position: 0 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-}
-      </style>
-	
-	
-      <a href="https://forum.mtaprovincex.ru/#elContent" class="ipsHide" title="Перейти к основному содержанию на этой странице" accesskey="m">Перейти к содержанию</a>
-		
+      
+        
+
+		  <a href="https://ipb.stylesfactory.pl/#ipsLayout_mainArea" class="ipsHide" title="Go to main content on this page" accesskey="m">Jump to content</a>
+       
 		<div id="ipsLayout_header" class="ipsClearfix">
 			
+
+
+
+
+
+          
+          	
+
+	<nav data-controller="core.front.core.navBar" class=" ipsResponsive_showDesktop" id="ips_uid_6857_2">
+		<div class="ipsNavBar_primary ipsLayout_container ">
+			<ul data-role="primaryNavBar" class="ipsClearfix">
+				
+
+
+	
+		
+		
 			
-<ul id="elMobileNav" class="ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block" data-controller="core.front.core.mobileNav">
+		
+		<li class="ipsNavBar_active" data-active="" id="elNavSecondary_1" data-role="navBarItem" data-navapp="core" data-navext="CustomItem" data-originalwidth="81.375">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/" data-navitem-id="1" data-navdefault="" data-active="true">
+					Browse<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+				<ul class="ipsNavBar_secondary " data-role="secondaryNavBar">
+					
+
+
+	
+	
+
+	
+		
+		
+			
+		
+		<li class="ipsNavBar_active" data-active="" id="elNavSecondary_10" data-role="navBarItem" data-navapp="forums" data-navext="Forums" data-originalwidth="82.75">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index" data-navitem-id="10" data-navdefault="">
+					Forums<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_11" data-role="navBarItem" data-navapp="calendar" data-navext="Calendar" data-originalwidth="76.3594">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=calendar&amp;module=calendar&amp;controller=view" data-navitem-id="11">
+					Events<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_13" data-role="navBarItem" data-navapp="core" data-navext="StaffDirectory" data-originalwidth="66.1875">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=staffdirectory&amp;controller=directory" data-navitem-id="13">
+					Команда форума<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_14" data-role="navBarItem" data-navapp="core" data-navext="OnlineUsers" data-originalwidth="112.391">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=online&amp;controller=online" data-navitem-id="14">
+					Пользователи в сети<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_15" data-role="navBarItem" data-navapp="core" data-navext="Leaderboard" data-originalwidth="116">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=popular&amp;tab=leaderboard" data-navitem-id="15">
+					Таблица лидеров<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+					<li class="ipsHide" id="elNavigationMore_1" data-role="navMore" style="">
+						<a href="https://ipb.stylesfactory.pl/#" data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore_1" id="elNavigationMore_1_dropdown">More <i class="fa fa-caret-down"></i></a>
+						<ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_1_dropdown_menu" data-role="moreDropdown"></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_2" data-role="navBarItem" data-navapp="core" data-navext="CustomItem" data-originalwidth="80.25">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams" data-navitem-id="2">
+					Активность<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+				<ul class="ipsNavBar_secondary ipsHide" data-role="secondaryNavBar">
+					
+
+
+	
+		
+		
+		<li id="elNavSecondary_4" data-role="navBarItem" data-navapp="core" data-navext="AllActivity">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams" data-navitem-id="4">
+					All Activity<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_8" data-role="navBarItem" data-navapp="core" data-navext="Search">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=search&amp;controller=search" data-navitem-id="8">
+					Search<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+					<li class="ipsHide" id="elNavigationMore_2" data-role="navMore">
+						<a href="https://ipb.stylesfactory.pl/#" data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore_2" id="elNavigationMore_2_dropdown">More <i class="fa fa-caret-down"></i></a>
+						<ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_2_dropdown_menu" data-role="moreDropdown"></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li id="elNavSecondary_16" data-role="navBarItem" data-navapp="core" data-navext="CustomItem" data-originalwidth="114.844">
+			
+			
+				<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index" data-navitem-id="16">
+					Отправить дамп файл после вылета<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+				<li class="ipsHide" id="elNavigationMore" data-role="navMore" style="">
+					<a href="https://ipb.stylesfactory.pl/#" data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore" id="elNavigationMore_dropdown">More</a>
+					<ul class="ipsNavBar_secondary ipsHide" data-role="secondaryNavBar">
+						<li class="ipsHide" id="elNavigationMore_more" data-role="navMore">
+							<a href="https://ipb.stylesfactory.pl/#" data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore_more" id="elNavigationMore_more_dropdown">More <i class="fa fa-caret-down"></i></a>
+							<ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_more_dropdown_menu" data-role="moreDropdown"></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			
+
+	<div id="elSearchWrapper">
+		<div id="elSearch" data-controller="core.front.core.quickSearch">
+			<form accept-charset="utf-8" action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=search&amp;controller=search&amp;do=quicksearch" method="post">
+                <input type="search" id="elSearchField" placeholder="Search..." name="q" autocomplete="off" aria-label="Search">
+                <details class="cSearchFilter">
+                    <summary class="cSearchFilter__text">Everywhere</summary>
+                    <ul class="cSearchFilter__menu">
+                        
+                        <li><label><input type="radio" name="type" value="all" checked=""><span class="cSearchFilter__menuText">Everywhere</span></label></li>
+                        
+                        
+                            <li><label><input type="radio" name="type" value="core_statuses_status"><span class="cSearchFilter__menuText">Status Updates</span></label></li>
+                        
+                            <li><label><input type="radio" name="type" value="forums_topic"><span class="cSearchFilter__menuText">Topics</span></label></li>
+                        
+                            <li><label><input type="radio" name="type" value="calendar_event"><span class="cSearchFilter__menuText">Events</span></label></li>
+                        
+                            <li><label><input type="radio" name="type" value="core_members"><span class="cSearchFilter__menuText">Members</span></label></li>
+                        
+                    </ul>
+                </details>
+				<button class="cSearchSubmit" type="submit" aria-label="Search"><i class="fa fa-search"></i></button>
+			</form>
+		</div>
+	</div>
+
+          <div></div>
+		</div>
+	</nav>
+
+			
+<ul id="elMobileNav" class="ipsResponsive_hideDesktop" data-controller="core.front.core.mobileNav">
+	
 	
 	
 	<li>
-		<a data-action="defaultStream" class="ipsType_light" href="https://forum.mtaprovincex.ru/discover/"><i class="icon-newspaper"></i></a>
+		<a data-action="defaultStream" href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams"><i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
 	</li>
 
 	
 
 	
 		<li class="ipsJS_show">
-			<a href="https://forum.mtaprovincex.ru/search/"><i class="fa fa-search"></i></a>
+			<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=search&amp;controller=search"><i class="fa fa-search"></i></a>
 		</li>
 	
+  
+	
+<ul class="ipsMobileHamburger ipsList_reset ipsResponsive_hideDesktop">
 	<li data-ipsdrawer="" data-ipsdrawer-drawerelem="#elMobileDrawer">
-		<a href="https://forum.mtaprovincex.ru/#">
+		<a href="https://ipb.stylesfactory.pl/#">
 			
 			
 				
@@ -208,261 +418,37 @@
 		</a>
 	</li>
 </ul>
-          
-          
-			
 
-  <header id="lkHeader_main">
-    <div class="ipsLayout_container">
-      <div id="lkLogo">
-
-<a href="https://forum.mtaprovincex.ru/" id="elSiteTitle" accesskey="1">Lunik MC</a>
-</div>
-      <div id="lkNav_mainContainer">
-        
-
-	<div id="lkNav_main" class="lkNav  ipsResponsive_hidePhone ipsResponsive_hideTablet">
-		<div class="ipsNavBar_primary ">
-			<ul data-role="primaryNavBar" class="lkNav_primary" style="width: 1258px;">
-				
-
-
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="CustomItem" class="dropdownRight" style="">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/" data-navitem-id="1">
-					Форум
-				</a>
-			
-			
-				<ul class="lkNav_subnav ipsNavBar_secondary" data-role="secondaryNavBar">
+</ul>
+			<header>
+				<div class="ipsLayout_container">
 					
 
 
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="Guidelines">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/guidelines/" data-navitem-id="20">
-					Правила
-				</a>
-			
-			
-		</li>
-	
-	
+<a href="https://ipb.stylesfactory.pl/" id="elLogo" accesskey="1"><img src="./Forums - Lunik MC_files/logo.png.e7b40e1ed0e1832b7db9caba56c14acd.png" alt="Invision Community Demo for StylesFactory.pl"></a>
 
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="StaffDirectory">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/staff/" data-navitem-id="12">
-					Модераторы
-				</a>
-			
-			
-		</li>
-	
-	
-
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="Leaderboard">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/leaderboard/" data-navitem-id="14">
-					Лидеры
-				</a>
-			
-			
-		</li>
-	
-	
-
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="Search">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/search/" data-navitem-id="8">
-					Поиск
-				</a>
-			
-			
-		</li>
-	
-	
-
-				</ul>
-			
-		</li>
-	
-	
-
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="Menu" class="dropdownRight" style="">
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="CustomItem" style="">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/discover/" data-navitem-id="2">
-					Активность
-				</a>
-			
-			
-				<ul class="lkNav_subnav ipsNavBar_secondary" data-role="secondaryNavBar">
-					
-
-
-	
-		
-		
-		<li data-role="navBarItem" data-navapp="core" data-navext="AllActivity">
-			
-			
-				<a href="https://forum.mtaprovincex.ru/discover/" data-navitem-id="4">
-					Активность
-				</a>
-			
-			
-		</li>
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-				</ul>
-			
-		</li>
-	
-	
-
-              	<li class="lkNav_more">
-                  <a>
-                    
-                    <span>Больше</span>
-                  </a>
-                  
-              	</li>
-			</ul>
-		</div>
-	</div>
-
-      </div>
-    </div>
-  </header>
-  
-    <header id="lkHeader_sub">
-      <div id="lkNav_subContainer">
-        <div class="ipsLayout_container">
-          
-
-	<div id="elSearchWrapper">
-		<div id="elSearch" class="" data-controller="core.front.core.quickSearch">
-			<form accept-charset="utf-8" action="https://forum.mtaprovincex.ru/search/?do=quicksearch" method="post">
-				<input type="search" id="elSearchField" placeholder="Поиск..." name="q" autocomplete="off">
-				<button class="cSearchSubmit" type="submit"><i class="fa fa-search"></i></button>
-				<div id="elSearchExpanded">
-					<div class="ipsMenu_title">
-						Искать в
-					</div>
-					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-ipssidemenu="" data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-role="searchContexts">
-						<li>
-							<a href="https://forum.mtaprovincex.ru/#" class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all">
-								<input type="radio" name="type" value="all" checked="" id="elQuickSearchRadio_type_all">
-								<label for="elQuickSearchRadio_type_all" id="elQuickSearchRadio_type_all_label">Везде</label>
-							</a>
-						</li>
-						
-						
-							<li>
-								<a href="https://forum.mtaprovincex.ru/#" class="ipsSideMenu_item" data-ipsmenuvalue="forums_topic">
-									<input type="radio" name="type" value="forums_topic" id="elQuickSearchRadio_type_forums_topic">
-									<label for="elQuickSearchRadio_type_forums_topic" id="elQuickSearchRadio_type_forums_topic_label">Темы</label>
-								</a>
-							</li>
-						
-						
-						<li data-role="showMoreSearchContexts">
-							<a href="https://forum.mtaprovincex.ru/#" class="ipsSideMenu_item" data-action="showMoreSearchContexts" data-exclude="forums_topic">
-								Ещё...
-							</a>
-						</li>
-					</ul>
-					<div class="ipsMenu_title">
-						Поиск контента, содержащего...
-					</div>
-					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" role="radiogroup" data-ipssidemenu="" data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-filtertype="andOr">
-						
-							<li>
-								<a class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="or">
-									<input type="radio" name="search_and_or" value="or" checked="" id="elRadio_andOr_or">
-									<label for="elRadio_andOr_or" id="elField_andOr_label_or"><em>Любое</em> слово запроса</label>
-								</a>
-							</li>
-						
-							<li>
-								<a class="ipsSideMenu_item " data-ipsmenuvalue="and">
-									<input type="radio" name="search_and_or" value="and" id="elRadio_andOr_and">
-									<label for="elRadio_andOr_and" id="elField_andOr_label_and"><em>Все</em> слова запроса</label>
-								</a>
-							</li>
-						
-					</ul>
-					<div class="ipsMenu_title">
-						Поиск результатов в...
-					</div>
-					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" role="radiogroup" data-ipssidemenu="" data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-filtertype="searchIn">
-						<li>
-							<a class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all">
-								<input type="radio" name="search_in" value="all" checked="" id="elRadio_searchIn_and">
-								<label for="elRadio_searchIn_and" id="elField_searchIn_label_all">Заголовки и содержание контента</label>
-							</a>
-						</li>
-						<li>
-							<a class="ipsSideMenu_item" data-ipsmenuvalue="titles">
-								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
-								<label for="elRadio_searchIn_titles" id="elField_searchIn_label_titles">Только заголовки контента</label>
-							</a>
-						</li>
-					</ul>
 				</div>
-			</form>
-		</div>
-    </div>
+               <div class="flex center ubar">
+                <div>
+                  
+                      
 
-          
-
-	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block">
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsResponsive_showDesktop">
 		
-		<li id="elSignInLink">
-			<a href="https://forum.mtaprovincex.ru/login/" data-ipsmenu-closeonclick="false" data-ipsmenu="" id="elUserSignIn">
-				Уже зарегистрированы? Войти &nbsp;<i class="fa fa-caret-down"></i>
-			</a>
-			
+        
+		
+        
+        
+            
+            <li id="elSignInLink">
+                <a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=login" data-ipsmenu-closeonclick="false" data-ipsmenu="" id="elUserSignIn">
+                    Уже зарегистрированы? Войти &nbsp;<i class="fa fa-caret-down"></i>
+                </a>
+                
 <div id="elUserSignIn_menu" class="ipsMenu ipsMenu_auto ipsHide">
-	<form accept-charset="utf-8" method="post" action="https://forum.mtaprovincex.ru/login/" data-controller="core.global.core.login">
-		<input type="hidden" name="csrfKey" value="1d328157ff3352d9431913d7f45ab46b">
-		<input type="hidden" name="ref" value="aHR0cHM6Ly9mb3J1bS5tdGFwcm92aW5jZXgucnUv">
+	<form accept-charset="utf-8" method="post" action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=login">
+		<input type="hidden" name="csrfKey" value="8e774232bb824ec593a5e2ca86b9cdb5">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
 		<div data-role="loginForm">
 			
 			
@@ -475,11 +461,11 @@
 		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
 			
 			
-				<input type="text" placeholder="Отображаемое имя или email адрес" name="auth" autocomplete="email">
+				<input type="email" placeholder="Email Address" name="auth" autocomplete="email">
 			
 		</li>
 		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
-			<input type="password" placeholder="Пароль" name="password" autocomplete="current-password">
+			<input type="password" placeholder="Password" name="password" autocomplete="current-password">
 		</li>
 		<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
 			<span class="ipsCustomInput">
@@ -488,17 +474,17 @@
 			</span>
 			<div class="ipsFieldRow_content">
 				<label class="ipsFieldRow_label" for="remember_me_checkbox">Запомнить</label>
-				<span class="ipsFieldRow_desc">Не рекомендуется для компьютеров с общим доступом</span>
+				<span class="ipsFieldRow_desc">Not recommended on shared computers</span>
 			</div>
 		</li>
 		<li class="ipsFieldRow ipsFieldRow_fullWidth">
-			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Войти</button>
+			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Войти в аккаунт</button>
 			
 				<p class="ipsType_right ipsType_small">
 					
-						<a href="https://forum.mtaprovincex.ru/lostpassword/" data-ipsdialog="" data-ipsdialog-title="Забыли пароль?">
+						<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=lostpass" data-ipsdialog="" data-ipsdialog-title="Forgot your password?">
 					
-					Забыли пароль?</a>
+					Я забыл пароль</a>
 				</p>
 			
 		</li>
@@ -508,246 +494,33 @@
 		</div>
 	</form>
 </div>
-		</li>
+            </li>
+            
+        
 		
 			<li>
 				
-					<a href="https://forum.mtaprovincex.ru/register/" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Регистрация" id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">Регистрация</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=register" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">Зарегистрироваться</a>
 				
 			</li>
 		
 	</ul>
 
-        </div>
-      </div>
-    </header>
-  
-
+                  
+                </div>
+              </div>
+		 </header>
 		</div>
-		
-
-	
-		
-			
-				
-					
-						
-						<div id="lkSwiper">
-							<div class="swiper-container swiper-header swiper-container-horizontal" style="cursor: grab;">
-								<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-5610px, 0px, 0px);"><div class="swiper-slide slide-c swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(1683px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Be22-1.png.b1713d8eb55bc5fb1b565fab7428e76d.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div><div class="swiper-slide slide-d swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(1122px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Bez_im2-1.png.646f971d6643d593a07552cd0e29817b.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div>
-									
-									
-										
-											
-											
-
-									
-										
-											
-											
-
-									
-										
-											
-											
-
-
-<div class="swiper-slide slide-c swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(561px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Be22-1.png.b1713d8eb55bc5fb1b565fab7428e76d.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div>
-
-
-									
-										
-											
-											
-
-
-<div class="swiper-slide slide-d swiper-slide-active" data-swiper-slide-index="1" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(0px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Bez_im2-1.png.646f971d6643d593a07552cd0e29817b.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div>
-
-
-									
-										
-											
-											
-
-									
-								<div class="swiper-slide slide-c swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(-561px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Be22-1.png.b1713d8eb55bc5fb1b565fab7428e76d.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div><div class="swiper-slide slide-d swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1870px; transition: all 0ms ease 0s;">
-	<div class="slide-image swiper-lazy swiper-lazy-loaded" style="transform: translate3d(-1122px, 0px, 0px); transition: all 0ms ease 0s; background-image: url(&quot;https://forum.mtaprovincex.ru/uploads/monthly_2021_10/Bez_im2-1.png.646f971d6643d593a07552cd0e29817b.png&quot;);"></div>
-	<div class="ipsLayout_container align-center">
-		<div class="slideContainer">
-			
-			<div class="slideContent"><p>
-	&nbsp;
-</p>
-
-<p>
-	&nbsp;
-</p>
-</div>
-			
-		</div>
-	</div>
-</div></div>
-								
-									<div class="swiper-pagination swiper-pagination-bullets swiper-pagination-bullets-dynamic" style="width: 175px;"><span class="swiper-pagination-bullet swiper-pagination-bullet-active-prev" style="left: -17.5px;"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active swiper-pagination-bullet-active-main" style="left: -17.5px;"></span></div>
-								
-								
-									<div class="swiper-header-next" tabindex="0" role="button" aria-label="Next slide"><i class="fa fa-chevron-right"></i></div>
-									<div class="swiper-header-prev" tabindex="0" role="button" aria-label="Previous slide"><i class="fa fa-chevron-left"></i></div>
-								
-							<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-						</div>
-						
-					
-				
-			
-		
-	
-
-
-
-		
-		
-      <main id="ipsLayout_body" class="ipsLayout_container">
+		<main id="ipsLayout_body" class="ipsLayout_container">
+        
+        <!-- THEME SLIDER -->
+        
+        <!-- THEME SLIDER END -->  
+          
+		<!-- CONTENT DISPLAY -->
+        
+        <!-- CONTENT DISPLAY END -->
+         
 			<div id="ipsLayout_contentArea">
 				<div id="ipsLayout_contentWrapper">
 					
@@ -757,592 +530,455 @@
 	<ul class="ipsList_inline ipsPos_right">
 		
 		<li>
-			<a data-action="defaultStream" class="ipsType_light " href="https://forum.mtaprovincex.ru/discover/"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>Активность</span></a>
+			<a data-action="defaultStream" class="ipsType_light " href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>All Activity</span></a>
 		</li>
 		
 	</ul>
 
 	<ul data-role="breadcrumbList">
 		<li>
-			<a title="Главная" href="https://forum.mtaprovincex.ru/">
-				<span>Главная</span>
+			<a title="Home" href="https://ipb.stylesfactory.pl/">
+				<span>Home</span>
 			</a>
 		</li>
 		
 		
 	</ul>
 </nav>
-					
-					
-					
-                  <div id="ipsLayout_mainArea">
-						<a id="elContent"></a>
-						
-						
-						
-						
-							
+                    <div class="cyrk">
+                      
+                      <div id="ipsLayout_mainArea">
+                          
+                          
+                          
+                          
 
 	
 
 
-	<div class="cAnnouncementsContent">
-		
-		<div class="cAnnouncementContentTop ipsAnnouncement ipsMessage_error ipsType_center">
-            
-            <span>???</span>
-            
-		</div>
-		
-	</div>
 
 
+                          
 
-	<div class="cWidgetContainer " data-role="widgetReceiver" data-orientation="horizontal" data-widgetarea="header">
-		<ul class="ipsList_reset">
-			
-				
-					
-					<li class="ipsWidget ipsWidget_horizontal ipsBox  ipsWidgetHide ipsHide " data-blockid="app_core_newsletter_j2gujy1j0" data-blockconfig="true" data-blocktitle="Подписка на новостную рассылку" data-blockerrormessage="Этот блок не может быть показан. Причиной этому может быть необходимость его настройки, либо он будет отображён после перезагрузки этой страницы." data-controller="core.front.widgets.block"></li>
-				
-			
-		</ul>
-	</div>
-
-						
-						
-<div class="ipsPageHeader ipsClearfix ipsSpacer_bottom cForumHeader ipsHeaderButtons">
-	<h1 class="ipsType_pageTitle">
-		Форумы
+<div class="ipsPageHeader ipsClearfix ipsMargin_bottom cForumHeader ipsHeaderButtons ipsFlex ipsFlex-ai:center ipsFlex-jc:between">
+	<h1 class="ipsType_pageTitle ipsFlex-flex:11 ipsType_break">
+		Forums
 	</h1>
+	
+		<ul class="ipsToolList ipsToolList_horizontal ipsClearfix sm:ipsPos_none sm:ipsMargin:none ipsFlex-flex:00">
+			<li class="ipsToolList_primaryAction ipsResponsive_hidePhone">
+				<a class="ipsButton ipsButton_medium ipsButton_important" href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;do=add" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Select Forum">Создать новую тему</a>
+			</li>
+			
+
+		</ul>
+	
 </div>
+<ul class="ipsToolList ipsToolList_horizontal ipsResponsive_hideDesktop ipsResponsive_hideTablet ipsResponsive_block ipsClearfix">
+	
+
+
+
+<li class="ipsToolList_primaryAction ipsResponsive_hideTablet">
+	<a class="ipsButton ipsButton_medium ipsButton_important ipsButton_fullWidth" href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;do=add" rel="nofollow" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Select Forum">Start new topic</a>
+</li>
+
+
+
+</ul>
 
 <section>
-	<ol class="ipsList_reset cForumList lkForumList" data-controller="core.global.core.table, forums.front.forum.forumList" data-baseurl="">
+
+						
+					</ol>
+				
+			</li>
+			
 		
 			
-			<li data-categoryid="3" class="cForumRow lkAreaCategory lkCategory ">
-                <h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
-                    <div class="lkForum_icon"><i class="fa fa-comments"></i></div>
-                    <a class="lkForum_categoryTitle" href="https://forum.mtaprovincex.ru/forum/3-province-x/">Lunik MC</a>
-                    <a href="https://forum.mtaprovincex.ru/#" class="ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Свернуть категорию"></a>
-                </h2>
+			<li data-categoryid="1" class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull">
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href="https://ipb.stylesfactory.pl/#" class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Toggle this category"></a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=9">Lunik MC</a>
+				</h2>
 				
-					<ol class="ipsDataList ipsDataList_zebra" data-role="forums">
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
 						
 							
 
 
 
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="4">
-		<div class="lkForumRow_icon">
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="10">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
 					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
 					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/4-about-forum/">Все о форуме</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=10">Все о форуме</a>
 				
 				
 			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
 			
-            
-				<ul class="lkForumRow_subForums">
+				<ul class="ipsDataItem_subList ipsList_inline">
 					
 						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/13-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0/">Новости форума</a>
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=13">Предложения по улучшению форума</a>
 						</li>
 					
 						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/12-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8E-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0/">Предложения по улучшению форума</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/38-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0/">Жалобы на модераторов форума</a>
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Жалобы на модераторов и администраторов форума</a>
 						</li>
 					
 				</ul>
 			
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>4</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/46-aleksandr_gronskiy/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/46-aleksandr_gronskiy/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Aleksandr_Gronskiy">
-		<img src="./Форумы - Lunik MC_files/MQC.gif.a54ab354d97d8b60cd492101a886d268.thumb.gif.976c0825091882dc8a918529ba093e52.gif" alt="Aleksandr_Gronskiy">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/1450-%D1%85%D0%BE%D1%87%D1%83-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BD%D0%B5-%D0%B7%D0%B0-%D1%87%D1%82%D0%BE-%D0%B4%D0%B0%D0%BB%D0%B8-%D0%BE%D1%84%D1%84%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B5/?do=getNewComment" title="Правила подачи жалобы">Правила подачи жалобы</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/46-aleksandr_gronskiy/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/46-aleksandr_gronskiy/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Aleksandr_Gronskiy" class="ipsType_break"><span style="color:#FFD700; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">lunik_cuza</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/1450-%D1%85%D0%BE%D1%87%D1%83-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BD%D0%B5-%D0%B7%D0%B0-%D1%87%D1%82%D0%BE-%D0%B4%D0%B0%D0%BB%D0%B8-%D0%BE%D1%84%D1%84%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B5/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-05-15T19:12:11Z" title="15.05.2022 19:12 " data-short="15 май">27 октября</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/1450-%D1%85%D0%BE%D1%87%D1%83-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BD%D0%B5-%D0%B7%D0%B0-%D1%87%D1%82%D0%BE-%D0%B4%D0%B0%D0%BB%D0%B8-%D0%BE%D1%84%D1%84%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B5/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-05-15T19:12:11Z" title="15.05.2022 19:12 " data-short="15 май">15 мая</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
-						
-												
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="16">
-		<div class="lkForumRow_icon">
-			
-			
 			
 				
-					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
-					
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/16-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2/">Специальный раздел</a>
-				
-				
-			</h4>
-          	
-				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-				<ul class="lkForumRow_subForums">
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/17-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B3%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2/">Жалобы на Гл. Адм.</a>
-						</li>
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/17-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B3%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2/">Заявления на разбан</a>
-						</li>
-					
-				</ul>
-			
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>65</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/19-milfo4ka/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/19-milfo4ka/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Milfo4ka">
-		<img src="./Форумы - Lunik MC_files/image0.thumb.jpg.6adf9f8a0673c1c5e0dc08f24a90ee47.jpg" alt="Milfo4ka">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/882-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1/?do=getNewComment" title="Правила подачи жалоб">Правила подачи жалоб</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/19-milfo4ka/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/19-milfo4ka/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Milfo4ka" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Milfo4ka</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/882-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-01-29T21:23:57Z" title="29.01.2022 21:23 " data-short="29 янв">29 января</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/882-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-01-29T21:23:57Z" title="29.01.2022 21:23 " data-short="29 янв">29 января</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
-						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="39">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
-					
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/39-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB/">Технический раздел</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>749</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/17-jack_deputies/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/17-jack_deputies/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Jack_Deputies">
-		<img src="./Форумы - Lunik MC_files/LqiSEQJcrs9xc_kwavamhYtVMHuxN4VEpCkLT8jQSrKXyZUEp8s2HETmv9oHOO-ZnYCapF_kfpuyq6dn9f6sfpj0.thumb.jpg.880b178015cbac6563866d87dc9009b4.jpg" alt="Jack_Deputies">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/2147-%D0%BD%D0%B5-%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D0%B8%D1%82%D1%81%D1%8F/?do=getNewComment" title="Не донатится">Не донатится</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/17-jack_deputies/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/17-jack_deputies/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Jack_Deputies" class="ipsType_break"><span style="color:#e10000; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Jack_Deputies</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/2147-%D0%BD%D0%B5-%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D0%B8%D1%82%D1%81%D1%8F/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-11-30T16:53:22Z" title="30.11.2022 16:53 " data-short="30 нояб">30 ноября</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/2147-%D0%BD%D0%B5-%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D0%B8%D1%82%D1%81%D1%8F/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-11-30T16:53:22Z" title="30.11.2022 16:53 " data-short="30 нояб">30 ноября</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
-						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="15">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
-					
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/15-help/">Помощь</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>360</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/17-jack_deputies/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/17-jack_deputies/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Jack_Deputies">
-		<img src="./Форумы - Lunik MC_files/LqiSEQJcrs9xc_kwavamhYtVMHuxN4VEpCkLT8jQSrKXyZUEp8s2HETmv9oHOO-ZnYCapF_kfpuyq6dn9f6sfpj0.thumb.jpg.880b178015cbac6563866d87dc9009b4.jpg" alt="Jack_Deputies">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/2196-%D0%B7%D0%B0%D0%B1%D1%8B%D0%BB-%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD/?do=getNewComment" title="Забыл логин">Забыл логин</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/17-jack_deputies/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/17-jack_deputies/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Jack_Deputies" class="ipsType_break"><span style="color:#e10000; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Jack_Deputies</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/2196-%D0%B7%D0%B0%D0%B1%D1%8B%D0%BB-%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T08:35:27Z" title="06.12.2022 08:35 " data-short="9 чс">9 часов назад</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/2196-%D0%B7%D0%B0%D0%B1%D1%8B%D0%BB-%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T08:35:27Z" title="06.12.2022 08:35 " data-short="9 чс">9 часов назад</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
-						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  lkForumRow_blank" data-forumid="44">
-		<div class="lkForumRow_icon">
-			
-				
-					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_redirect ">
-                                <i class="fa fa-arrow-right"></i>
-                            </span>
-                        
-					
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/44-proect-group-vk/">Официальная группа проекта</a>
-				
-				
-					&nbsp;&nbsp;<span class="ipsType_light ipsType_medium">(555 посещений по этой ссылке)</span>
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-		</div>
-		
-		
-	</li>
-
-						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="54">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
-					
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/54-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/">Техническая информация</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
 <p>
-	ЧТО ЭТО ЗА ОШИБКА?!?!?
+	&nbsp;
 </p>
 
 </div>
 
 			
-            
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
-                    
-                    <dl>
-                        
-                        <dt>7</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">4</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> постов</dd>
+					</dl>
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Dmitriy_Coleman">
-		<img src="./Форумы - Lunik MC_files/avatar_dutchman101_new.png.3d921cda864712cbdf8eca6644fc402c.thumb.png.2a1bbab1d8db662a8d3417f24028f591.png" alt="Dmitriy_Coleman">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="Williams" loading="lazy">
 	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/164-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B0%D0%BF%D0%B4%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%BE%D0%BC-%D0%B8-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%BC/?do=getNewComment" title="Решение проблем с апдейтером и клиентом">Решение проблем с апдейтером и клиентом</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Dmitriy_Coleman" class="ipsType_break"><span class="pereliv">Dmitriy_Coleman</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/164-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B0%D0%BF%D0%B4%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%BE%D0%BC-%D0%B8-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%BC/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-02-06T19:08:57Z" title="06.02.2022 19:08 " data-short="6 февр">6 февраля</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="BEST RP">Правила подачи жалобы</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
 							
-                                <a href="https://forum.mtaprovincex.ru/topic/164-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B0%D0%BF%D0%B4%D0%B5%D0%B9%D1%82%D0%B5%D1%80%D0%BE%D0%BC-%D0%B8-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%BC/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-02-06T19:08:57Z" title="06.02.2022 19:08 " data-short="6 февр">6 февраля</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="Go to last post"><time datetime="2022-11-10T02:09:59Z" title="11/10/22 02:09  AM" data-short="Nov 10">27 октября</time></a>
+						
+					</li>
+				
+			</ul>	
 		
 		
 	</li>
+
+<!-- SF EDIT -->
+
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="10">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=10">Специальный раздел</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=13">Жалобы на Гл. Адм.</a>
+						</li>
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Заявления на разбан</a>
+						</li>
+					
+				</ul>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">3</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="Williams" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="BEST RP">Заявления</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="Go to last post"><time datetime="2022-11-10T02:09:59Z" title="11/10/22 02:09  AM" data-short="Nov 10">27 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+<!-- SF EDIT -->
+
+
+
+
+						
+							
+
+
+
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Разблокировка</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">3</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Заявления</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">14 ноября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+<!-- SF EDIT -->
+
+			
+							
+
+
+
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Помощь</a>
+				
+				
+			</h4>
+
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=13">Восстановление паролей форумных аккаунтов</a>
+						</li>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">6</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Как восстановить данные для входа в форумный аккаунт</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+<!-- SF EDIT -->
+
+<li class="cForumRow lkForumRow ipsDataItem  lkForumRow_blank" data-forumID="17">
+<div class="lkForumRow_icon">
+<span class='ipsItemStatus ipsItemStatus_large cForumIcon_redirect '>
+<i class='fa fa-arrow-right'></i>
+</span>
+</div>
+<div class="lkForumRow_main">
+<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+<a href="https://forum.madnessprovince.cc/index.php?/forum/17-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-telegram-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB/">Отправка информации о баг или предложении</a>
+&nbsp;&nbsp;<span class='ipsType_light ipsType_medium'>(6 посещений по этой ссылке)</span>
+</h4>
+<div class="ipsDataItem_meta ipsType_richText ipsType_light"></div>
+</div>
+
+<!-- SF EDIT -->
+
+
 
 						
 					</ol>
@@ -1351,493 +987,171 @@
 			
 		
 			
-			<li data-categoryid="5" class="cForumRow lkAreaCategory lkCategory ">
-                <h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
-                    <div class="lkForum_icon"><i class="fa fa-comments"></i></div>
-                    <a class="lkForum_categoryTitle" href="https://forum.mtaprovincex.ru/forum/5-province-x-server-1/">Province X Сервер 1</a>
-                    <a href="https://forum.mtaprovincex.ru/#" class="ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Свернуть категорию"></a>
-                </h2>
+			<li data-categoryid="15" class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull">
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href="https://ipb.stylesfactory.pl/#" class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Toggle this category"></a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=15">Технический раздел</a>
+				</h2>
 				
-					<ol class="ipsDataList ipsDataList_zebra" data-role="forums">
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
 						
 							
 
 
 
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="6">
-		<div class="lkForumRow_icon">
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
-					<img src="./Форумы - Lunik MC_files/610604895_.png.d4fde3b6b46475d30ac81d7ec1ab02f3.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/6-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B2%D0%BF%D1%81/">Внутренние правила сервера (ВПС)</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Технический раздел (Lunik Server #1)</a>
 				
 				
 			</h4>
-          	
+			
+			
 				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
 
 </div>
 
 			
-            
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
-                    
-                    <dl>
-                        
-                        <dt>1</dt>
-                        <dd class="lkType_small"> сообщение</dd>
-                    </dl>
-                    
-                    
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/1-community-x/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1-community-x/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Community X">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462ad%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Community X">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
 	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/15-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B2%D0%BF%D1%81/?do=getNewComment" title="Внутренние правила сервера (ВПС)">Внутренние правила сервера (ВПС)</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Правила технического раздела</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
 
 
-<a href="https://forum.mtaprovincex.ru/profile/1-community-x/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1-community-x/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Community X" class="ipsType_break"><span class="pereliv">Community X</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/15-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B2%D0%BF%D1%81/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2021-10-24T13:40:42Z" title="24.10.2021 13:40 " data-short="1 г">24 октября, 2021</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/15-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B2%D0%BF%D1%81/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2021-10-24T13:40:42Z" title="24.10.2021 13:40 " data-short="1 г">24 октября, 2021</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">4 ноября</time></a>
+						
+					</li>
+				
+			</ul>	
 		
 		
 	</li>
 
-						
-							
+<!-- SF EDIT -->
 
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="9">
-		<div class="lkForumRow_icon">
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
-					<img src="./Форумы - Lunik MC_files/1779551265_.png.8b4839195b075a078f3aa9fef5e35eb1.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/9-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB/">Городской портал</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Технический раздел Lunik Server #2 (Winter)</a>
 				
 				
 			</h4>
-          	
+			
+			
 				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
 
 </div>
 
 			
-            
-				<ul class="lkForumRow_subForums">
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/25-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Государственные организации</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/41-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Частные организации</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/42-%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B5-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B8-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8/">Преступные группировки и семьи</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/74-roleplay-%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/">RolePlay биографии</a>
-						</li>
-					
-				</ul>
-			
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
-                    
-                    <dl>
-                        
-                        <dt>213</dt>
-                        <dd class="lkType_small"> сообщения</dd>
-                    </dl>
-                    
-                    
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ричард Филимонов">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49862%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3E%D0%A0%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Ричард Филимонов">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\userlogo-2.svg" alt="TestName" loading="lazy">
 	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=getNewComment" title="[МО] Заявление в старший состав организации">[МО]&nbsp;Заявление в старший состав организации</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Ричард Филимонов" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Ричард Филимонов</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T13:10:02Z" title="06.12.2022 13:10 " data-short="4 чс">4 часа назад</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T13:10:02Z" title="06.12.2022 13:10 " data-short="4 чс">4 часа назад</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Правила технического раздела сервера Winter</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
 						
-							
+							 
 
 
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="7">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					<img src="./Форумы - Lunik MC_files/839723229_.png.cf67d09b2c24b19ab5b49013a77c16a1.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/7-%C2%A0%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1/">&nbsp;Книга жалоб</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-				<ul class="lkForumRow_subForums">
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/82-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8E-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9/">Жалобы на администрацию / обжалование наказаний</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/21-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2/">Жалобы на гражданских игроков</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/22-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/">Жалобы на лидеров государственных организаций</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/23-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D1%85-%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%D1%85/">Жалобы на игроков, состоящих в государственных организациях</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/61-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D1%85-%D0%B2-%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D1%85-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D1%85/">Жалобы на игроков, состоящих в преступных группировках</a>
-						</li>
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/24-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%BC%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/">Жалобы на мошенничество</a>
-						</li>
-					
-				</ul>
-			
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>2 946</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Husein_Karatel">
-		<img src="./Форумы - Lunik MC_files/4ABB505D-9301-4D02-9259-5E8D7ADE213D.thumb.jpeg.8c05878c67ae1fb4967fa3e3230f9aed.jpeg" alt="Husein_Karatel">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=getNewComment" title="Жалоба на администратора Egor_Izmailovskiy">Жалоба на администратора Egor_Izmailovskiy</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Husein_Karatel" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Husein_Karatel</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T15:37:56Z" title="06.12.2022 15:37 " data-short="2 чс">2 часа назад</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-06T15:37:56Z" title="06.12.2022 15:37 " data-short="2 чс">2 часа назад</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">k2cttort_pov</a>, 
 						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  lkForumRow_blank" data-forumid="10">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					<img src="./Форумы - Lunik MC_files/1826464332_.png.1b2b127c86c597aceccb109072ba5466.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/10-%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB/">Кадровый портал</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-				<ul class="lkForumRow_subForums">
-					
-						<li class="">
-							<a href="https://forum.mtaprovincex.ru/forum/53-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82-%D1%85%D0%B5%D0%BB%D0%BF%D0%B5%D1%80%D0%B0/">Заявление на пост хелпера</a>
-						</li>
-					
-				</ul>
-			
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="ipsType_light lkType_small">Сообщений пока нет</div>
-                
-			</div>
-		
-		
-	</li>
-
 						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="11">
-		<div class="lkForumRow_icon">
-			
-			
-			
-				
-					<img src="./Форумы - Lunik MC_files/FAQ.png.5fc330f0f469164fea9b29ddd5967f39.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/11-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB/">Информационный раздел</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-                    
-                    <dl>
-                        
-                        <dt>37</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/1997-dmitriy/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1997-dmitriy/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Dmitriy">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46e62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Dmitriy">
-	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/1196-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/?do=getNewComment" title="Благодарность администрации сервера">Благодарность администрации сервера</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/1997-dmitriy/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1997-dmitriy/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Dmitriy" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Dmitriy</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/1196-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-05T19:03:16Z" title="05.12.2022 19:03 " data-short="22 чс">22 часа назад</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/1196-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-12-05T19:03:16Z" title="05.12.2022 19:03 " data-short="22 чс">22 часа назад</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
-		
-		
-	</li>
-
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">4 ноября</time></a>
 						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  lkForumRow_blank" data-forumid="59">
-		<div class="lkForumRow_icon">
-			
-			
-			
+					</li>
 				
-					<img src="./Форумы - Lunik MC_files/498844021_.png.c7404a45e0e3205d3a052a704189c73a.png" alt="" class="ipsItemStatus ipsItemStatus_custom ipsItemStatus_read">
-				
-			
-		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
-				
-					<a href="https://forum.mtaprovincex.ru/forum/59-%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F/">Мероприятия</a>
-				
-				
-			</h4>
-          	
-				
-
-
-
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
-
-</div>
-
-			
-            
-		</div>
-		
-			<div class="lkForumRow_stats">
-				
-				
-			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="ipsType_light lkType_small">Сообщений пока нет</div>
-                
-			</div>
+			</ul>	
 		
 		
 	</li>
+
+
+<!-- SF EDIT -->
+
 
 						
 					</ol>
@@ -1846,243 +1160,893 @@
 			
 		
 			
-			<li data-categoryid="18" class="cForumRow lkAreaCategory lkCategory ">
-                <h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
-                    <div class="lkForum_icon"><i class="fa fa-comments"></i></div>
-                    <a class="lkForum_categoryTitle" href="https://forum.mtaprovincex.ru/forum/18-speak/">Общение</a>
-                    <a href="https://forum.mtaprovincex.ru/#" class="ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Свернуть категорию"></a>
-                </h2>
+			<li data-categoryid="15" class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull">
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href="https://ipb.stylesfactory.pl/#" class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Toggle this category"></a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=15">Lunik Server #1</a>
+				</h2>
 				
-					<ol class="ipsDataList ipsDataList_zebra" data-role="forums">
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
 						
 							
 
 
 
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="19">
-		<div class="lkForumRow_icon">
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
 					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
 					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/19-%D0%BA%D1%83%D1%80%D0%B8%D0%BB%D0%BA%D0%B0-%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/">Курилка (общение)</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Серверные правила</a>
 				
 				
 			</h4>
-          	
+			
+			
 				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
 
 </div>
 
 			
-            
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
-                    
-                    <dl>
-                        
-                        <dt>25</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/596-marcello_abramov/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/596-marcello_abramov/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Marcello_Abramov">
-		<img src="./Форумы - Lunik MC_files/138023788_i(15).thumb.jpg.4fc9fc7439d8564a66cd3e1e49b00216.jpg" alt="Marcello_Abramov">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
 	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/14-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/?do=getNewComment" title="Свободное общение">Свободное общение</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Правила сервера</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
 
 
-<a href="https://forum.mtaprovincex.ru/profile/596-marcello_abramov/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/596-marcello_abramov/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Marcello_Abramov" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Marcello_Abramov</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/14-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-11-01T14:36:34Z" title="01.11.2022 14:36 " data-short="1 нояб">1 ноября</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
-							
-                                <a href="https://forum.mtaprovincex.ru/topic/14-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-11-01T14:36:34Z" title="01.11.2022 14:36 " data-short="1 нояб">1 ноября</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
 		
 		
 	</li>
 
-						
-							
-
-
-
-	<li class="cForumRow lkForumRow ipsDataItem  " data-forumid="20">
-		<div class="lkForumRow_icon">
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="10">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
 					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
 					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/20-forum-games/">Форумные игры</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=10">Книга жалоб</a>
 				
 				
 			</h4>
-          	
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=13">Жалобы на игроков</a>
+						</li>
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Жалобы на мошенников</a>
+						</li>
+
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Жалобы на администрацию</a>
+						</li>
+					
+				</ul>
+			
+			
 				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
 
 </div>
 
 			
-            
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
-                    
-                    <dl>
-                        
-                        <dt>39</dt>
-                        <dd class="lkType_small"> сообщений</dd>
-                    </dl>
-                    
-                    
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">7</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> постов</dd>
+					</dl>
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="lkForumRow_photo">
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/1876-alister_black/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1876-alister_black/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Alister_Black">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a6%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Alister_Black">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" loading="lazy">
 	</a>
-</div>
-                    <div class="lkForumRow_lastInfo">
-                        <div class="lkHideMobile"><a class="lkForum_topicTitle" href="https://forum.mtaprovincex.ru/topic/240-%D0%B4%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D0%BC-%D0%B4%D0%BE-2022/?do=getNewComment" title="Досчитаем до 2022">Досчитаем до 2022</a></div>
-                        <div class="ipsType_blendLinks ipsType_light lkType_small lkOverflow lkHideMobile">
-                            
-                                
-
-
-<a href="https://forum.mtaprovincex.ru/profile/1876-alister_black/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1876-alister_black/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Alister_Black" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Alister_Black</span></a>,
-                                
-                                    <a href="https://forum.mtaprovincex.ru/topic/240-%D0%B4%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D0%BC-%D0%B4%D0%BE-2022/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-10-29T16:16:20Z" title="29.10.2022 16:16 " data-short="29 окт">29 октября</time></a>
-                                
-                            
-                        </div>
-                        <div class="lkShowMobile ipsType_light lkType_small lkSpacer_topSmall">
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="BEST RP">Правила подачи жалоб на администрацию</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
 							
-                                <a href="https://forum.mtaprovincex.ru/topic/240-%D0%B4%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D0%BC-%D0%B4%D0%BE-2022/?do=getLastComment" title="Перейти к последнему сообщению" class="ipsType_blendLinks"><time datetime="2022-10-29T16:16:20Z" title="29.10.2022 16:16 " data-short="29 окт">29 октября</time></a>
-                            
-                        </div>
-                    </div>
-                
-			</div>
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="Go to last post"><time datetime="2022-11-10T02:09:59Z" title="11/10/22 02:09  AM" data-short="Nov 10">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
 		
 		
 	</li>
+
+	<!-- SF EDIT -->
+
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Кадровый отдел</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Заявления на пост игрового помощника сервера</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+
+<!-- SF EDIT -->
+
+
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Отдел информации</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">3</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Благодарности администрации</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+
+
+<!-- SF EDIT -->
+
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryid="15" class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull">
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href="https://ipb.stylesfactory.pl/#" class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Toggle this category"></a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=15">Lunik Server #2 (Winter)</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
+						
+							
+
+
+
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Правила сервера</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\userlogo-2.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Правила поведения на сервере #2</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">k2cttort_pov</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">27 ноября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="10">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=10">Жалобы</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=13">Жалобы на игроков</a>
+						</li>
+					
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Жалобы на мошенников</a>
+						</li>
+
+						<li class="">
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=14">Жалобы на администрацию</a>
+						</li>
+					
+				</ul>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">0</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="BEST RP">None</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="Go to last post"><time datetime="2022-11-10T02:09:59Z" title="11/10/22 02:09  AM" data-short="Nov 10">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+	<!-- SF EDIT -->
+
+
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Отдел информации</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\userlogo-2.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Winter // Благодарности администрации сервера</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">k2cttort_pov</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">3 декабря</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+
+<!-- SF EDIT -->
+
+	</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryid="15" class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull">
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href="https://ipb.stylesfactory.pl/#" class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" title="Toggle this category"></a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=15">Общение</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
+						
+							
+
+
+
+<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix aos-init aos-animate" data-forumid="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=11">Форумный чат</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+	&nbsp;
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light">постов</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TestName&#39;s profile">
+		<img src="Forums - Lunik MC_files\useradmin-1.svg" alt="TestName" loading="lazy">
+	</a>
+</li>
+					<li class="ipsDataItem_lastPoster__title"><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="test">Правила общего чата</a></li>
+					<li class="ipsType_light ipsType_blendLinks">
+						
+							 
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=3&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to TestName&#39;s profile" class="ipsType_break">lunik_cuza</a>, 
+						
+						
+							<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=4" title="Go to last post"><time datetime="2022-05-26T09:09:14Z" title="05/26/22 09:09  AM" data-short="May 26">28 октября</time></a>
+						
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+	<!-- SF EDIT -->
+
+
 
 						
 							
 
 
 
-	<li class="cForumRow lkForumRow ipsDataItem  lkForumRow_blank" data-forumid="43">
-		<div class="lkForumRow_icon">
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="12">
+		<div class="ipsDataItem_icon ipsDataItem_category">
 			
 			
 			
 				
 					
-                        
-                            <span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
-                                <i class="fa fa-comments"></i>
-                            </span>
-                        
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
 					
 				
 			
 		</div>
-		<div class="lkForumRow_main">
-			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
 				
-					<a href="https://forum.mtaprovincex.ru/forum/43-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0/"> Графика</a>
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=12">Форумные игры</a>
 				
 				
 			</h4>
-          	
+			
+			
 				
 
 
 
-<div class="ipsType_richText ipsDataItem_meta ipsType_light" data-controller="core.front.core.lightboxedImages">
+<div class='ipsType_richText ipsDataItem_meta ipsContained' data-controller='core.front.core.lightboxedImages' >
+<p>
+	
+</p>
 
 </div>
 
 			
-            
 		</div>
 		
-			<div class="lkForumRow_stats">
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
 				
 				
 			</div>
-			<div class="lkForumRow_lastPoster">
-                
-                    <div class="ipsType_light lkType_small">Сообщений пока нет</div>
-                
-			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>Сообщений пока нет</li>
+				
+			</ul>	
 		
 		
 	</li>
+						
+		
+	<!-- SF EDIT -->
+
+
+
+						
+							
+
+
+
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="12">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=12">Видеоролики</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class='ipsType_richText ipsDataItem_meta ipsContained' data-controller='core.front.core.lightboxedImages' >
+<p>
+	
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>Сообщений пока нет</li>
+				
+			</ul>	
+		
+		
+	</li>
+						
+		
+	<!-- SF EDIT -->
+
+
+
+						
+							
+
+
+
+
+	<li data-aos="fade-right" class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="12">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_break">
+				
+					<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;id=12">Графика</a>
+				
+				
+			</h4>
+			
+			
+				
+
+
+
+<div class='ipsType_richText ipsDataItem_meta ipsContained' data-controller='core.front.core.lightboxedImages' >
+<p>
+	
+</p>
+
+</div>
+
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>Сообщений пока нет</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+
+
+
 
 						
 					</ol>
@@ -2093,8 +2057,7 @@
 		
 	</ol>
 </section>
-						
-							
+                          
 
 
 	<div class="cWidgetContainer " data-role="widgetReceiver" data-orientation="horizontal" data-widgetarea="footer">
@@ -2102,67 +2065,53 @@
 			
 				
 					
-					<li class="ipsWidget ipsWidget_horizontal ipsBox  " data-blockid="app_core_members_vtikhw4e9" data-blockconfig="true" data-blocktitle="Пользователи" data-blockerrormessage="Этот блок не может быть показан. Причиной этому может быть необходимость его настройки, либо он будет отображён после перезагрузки этой страницы." data-controller="core.front.widgets.block">
-<h3 class="ipsType_reset ipsWidget_title">
-	Пользователи
-</h3>
-
-<div class="ipsWidget_inner ipsPad">
+					<li class="ipsWidget ipsWidget_horizontal ipsBox  " data-blockid="app_forums_forumStatistics_vfqfz576v" data-blockconfig="true" data-blocktitle="Forum Statistics" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Статистика форума</h3>
+<div class="ipsWidget_inner">
 	
-		<ul class="ipsList_inline ipsList_csv ipsList_noSpacing">
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/1879-dan_day/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1879-dan_day/?do=hovercard" title="Перейти в профиль Dan_Day" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Dan_Day</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2-dmitriy_coleman/?do=hovercard" title="Перейти в профиль Dmitriy_Coleman" class="ipsType_break"><span class="pereliv">Dmitriy_Coleman</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/?do=hovercard" title="Перейти в профиль Rustam_Rothmans" class="ipsType_break"><span style="color:#d7755a; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Rustam_Rothmans</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/195-lukky_luciano/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/195-lukky_luciano/?do=hovercard" title="Перейти в профиль Lukky_Luciano" class="ipsType_break"><span style="color:#5b94ff; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Lukky_Luciano</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/17-jack_deputies/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/17-jack_deputies/?do=hovercard" title="Перейти в профиль Jack_Deputies" class="ipsType_break"><span style="color:#e10000; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Jack_Deputies</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/602-victor_solncevskiy/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/602-victor_solncevskiy/?do=hovercard" title="Перейти в профиль Victor_Solncevskiy" class="ipsType_break"><span style="color:#60df97; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Victor_Solncevskiy</span></a></li>
-			
-				<li>
-<a href="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/?do=hovercard" title="Перейти в профиль Ричард Филимонов" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Ричард Филимонов</span></a></li>
-			
-		</ul>
+		<div class="ipsGrid ipsGrid_collapsePhone ipsWidget_stats">
+			<div class="ipsGrid_span6 ipsType_center">
+				<span class="ipsType_large ipsWidget_statsCount">35</span><br>
+				<span class="ipsType_light ipsType_medium">Темы</span>
+			</div>
+			<div class="ipsGrid_span6 ipsType_center">
+				<span class="ipsType_large ipsWidget_statsCount">36</span><br>
+				<span class="ipsType_light ipsType_medium">Постов</span>
+			</div>
+		</div>
 	
-</div>
-</li>
+</div></li>
+				
+					
+					<li class="ipsWidget ipsWidget_horizontal ipsBox  " data-blockid="app_core_activeUsers_3hxr7f0sg" data-blockconfig="true" data-blocktitle="Recently Browsing" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+<div data-controller="core.front.core.onlineUsersWidget">
+    <h3 class="ipsType_reset ipsWidget_title">
+        
+            Пользователи в сети
+        
+        
+        &nbsp;&nbsp;<span class="ipsType_light ipsType_unbold ipsType_medium" data-membercount="0">1 пользователей, 0 гостей, 0 анонимных</span>
+        
+    </h3>
+    <div class="ipsWidget_inner ipsPad">
+        <ul class="ipsList_inline ipsList_csv ipsList_noSpacing ipsType_normal">
+            
+                <li class="ipsType_reset ipsType_medium ipsType_light" data-noneonline="">lunik_cuza,</li>
+            
+        </ul>
+        
+    </div>
+</div></li>
 				
 			
 		</ul>
 	</div>
 
-						
-					</div>
-					
+                      </div>
+                      
 
 
 	<div id="ipsLayout_sidebar" class="ipsLayout_sidebarright " data-controller="core.front.widgets.sidebar">
-		
-			
-
-<div class="ipsBox ipsSpacer_bottom" id="cAnnouncementSidebar">
-	<span class="cAnnouncementIcon"><i class="fa fa-bullhorn fa-3x fa-fw"></i></span>
-	<h3 class="ipsType_minorHeading ipsType_center ipsType_medium ipsType_dark ipsSpacer_bottom">Объявления</h3>
-	<ul class="ipsList_reset">
-	
-		<li class="cAnnouncementSidebar ipsAnnouncement ipsMessage_warning">
-            
-            <a href="https://forum.mtaprovincex.ru/announcement/5-%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C/" data-ipsdialog="" data-ipsdialog-title="Добро пожаловать!">Добро пожаловать!</a>
-            
-        </li>
-	
-	</ul>
-</div>
 		
 		
 		
@@ -2174,293 +2123,388 @@
 			
 				
 					
-					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_forums_postFeed_utjsrkf6d" data-blockconfig="true" data-blocktitle="Лента сообщений" data-blockerrormessage="Этот блок не может быть показан. Причиной этому может быть необходимость его настройки, либо он будет отображён после перезагрузки этой страницы." data-controller="core.front.widgets.block">
-
-	<h3 class="ipsType_reset ipsWidget_title">Сообщения</h3>
+					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_core_stats_jp2t1qjbf" data-blockconfig="true" data-blocktitle="Member Statistics" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Member Statistics</h3>
+<div class="ipsWidget_inner">
 	
-		<div class="ipsWidget_inner ipsPad_half">
-			<ul class="ipsDataList ipsDataList_reducedSpacing">
-				
-					<li class="ipsDataItem">
-						<div class="ipsDataItem_icon ipsPos_top">
-							
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Husein_Karatel">
-		<img src="./Форумы - Lunik MC_files/4ABB505D-9301-4D02-9259-5E8D7ADE213D.thumb.jpeg.8c05878c67ae1fb4967fa3e3230f9aed.jpeg" alt="Husein_Karatel">
-	</a>
-
-						</div>
-						<div class="ipsDataItem_main">
-							<div class="ipsType_break ipsContained"><a href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=findComment&amp;comment=8384" title="Просмотр темы Жалоба на администратора Egor_Izmailovskiy" class="ipsType_medium ipsTruncate ipsTruncate_line"> Жалоба на администратора Egor_Izmailovskiy</a></div>
-							<p class="ipsType_reset ipsType_light ipsType_medium ipsType_blendLinks">От 
-
-
-<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Husein_Karatel" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Husein_Karatel</span></a> · <a href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=findComment&amp;comment=8384" class="ipsType_blendLinks">Опубликовано <time datetime="2022-12-06T15:37:56Z" title="06.12.2022 15:37 " data-short="2 чс">2 часа назад</time></a></p>
-							<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsType_break ipsContained ipsSpacer_top ipsSpacer_half" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="6 lines" data-ipstruncate-watch="false" style="overflow-wrap: break-word;">
-								Рп процесс изначально был, потом перешёл в нонРП процесс, даже тогда вы ничего не предприняли. Как может идти РП процесс когда игрок нонРП-ит🤦🏿‍♂️ 
-
-							</div>
-						</div>
-					</li>
-				
-					<li class="ipsDataItem">
-						<div class="ipsDataItem_icon ipsPos_top">
-							
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ричард Филимонов">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49862%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3E%D0%A0%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Ричард Филимонов">
-	</a>
-
-						</div>
-						<div class="ipsDataItem_main">
-							<div class="ipsType_break ipsContained"><a href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=findComment&amp;comment=8383" title="Просмотр темы [МО] Заявление в старший состав организации" class="ipsType_medium ipsTruncate ipsTruncate_line"> [МО]&nbsp;Заявление в старший состав организации</a></div>
-							<p class="ipsType_reset ipsType_light ipsType_medium ipsType_blendLinks">От 
-
-
-<a href="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/505-%D1%80%D0%B8%D1%87%D0%B0%D1%80%D0%B4-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Ричард Филимонов" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Ричард Филимонов</span></a> · <a href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=findComment&amp;comment=8383" class="ipsType_blendLinks">Опубликовано <time datetime="2022-12-06T13:10:02Z" title="06.12.2022 13:10 " data-short="4 чс">4 часа назад</time></a></p>
-							<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsType_break ipsContained ipsSpacer_top ipsSpacer_half is-truncated" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="6 lines" data-ipstruncate-watch="false" style="overflow-wrap: break-word;">
-								Министру Обороны Республики Провинция 
-Ротмансу Рустаму 
-от&nbsp;Филимонов Ричард Александрович 
-
-Заявление 
-
-Я,&nbsp;Филимонов Ричард Александрович, прошу Вас, рассмотреть мою кандидатуру на... </div>
-						</div>
-					</li>
-				
-					<li class="ipsDataItem">
-						<div class="ipsDataItem_icon ipsPos_top">
-							
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Erron_Rothmans">
-		<img src="./Форумы - Lunik MC_files/1572885920_vladyslav-liedienov-21061.thumb.jpg.7e8a02d7036db7cde83cdcb6a4b4aee7.jpg" alt="Erron_Rothmans">
-	</a>
-
-						</div>
-						<div class="ipsDataItem_main">
-							<div class="ipsType_break ipsContained"><a href="https://forum.mtaprovincex.ru/topic/2039-%D1%83%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4-%D0%B3%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/?do=findComment&amp;comment=8382" title="Просмотр темы [УГИБДД г.Мирный] Заявление на увольнение." class="ipsType_medium ipsTruncate ipsTruncate_line"> [УГИБДД г.Мирный] Заявление на увольнение.</a></div>
-							<p class="ipsType_reset ipsType_light ipsType_medium ipsType_blendLinks">От 
-
-
-<a href="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Erron_Rothmans" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Erron_Rothmans</span></a> · <a href="https://forum.mtaprovincex.ru/topic/2039-%D1%83%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4-%D0%B3%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/?do=findComment&amp;comment=8382" class="ipsType_blendLinks">Опубликовано <time datetime="2022-12-06T11:27:08Z" title="06.12.2022 11:27 " data-short="6 чс">6 часов назад</time></a></p>
-							<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsType_break ipsContained ipsSpacer_top ipsSpacer_half" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="6 lines" data-ipstruncate-watch="false" style="overflow-wrap: break-word;">
-								Доброго времени суток на связи Начальника ГИБДД!Ваше заявление принято!&nbsp;С уважением Эррон Ротманс Алексеевич 
-
-							</div>
-						</div>
-					</li>
-				
-					<li class="ipsDataItem">
-						<div class="ipsDataItem_icon ipsPos_top">
-							
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/2115-alexey_zhykovskiy/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2115-alexey_zhykovskiy/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Alexey_Zhykovskiy">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462be%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Alexey_Zhykovskiy">
-	</a>
-
-						</div>
-						<div class="ipsDataItem_main">
-							<div class="ipsType_break ipsContained"><a href="https://forum.mtaprovincex.ru/topic/2039-%D1%83%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4-%D0%B3%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/?do=findComment&amp;comment=8381" title="Просмотр темы [УГИБДД г.Мирный] Заявление на увольнение." class="ipsType_medium ipsTruncate ipsTruncate_line"> [УГИБДД г.Мирный] Заявление на увольнение.</a></div>
-							<p class="ipsType_reset ipsType_light ipsType_medium ipsType_blendLinks">От 
-
-
-<a href="https://forum.mtaprovincex.ru/profile/2115-alexey_zhykovskiy/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2115-alexey_zhykovskiy/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Alexey_Zhykovskiy" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Alexey_Zhykovskiy</span></a> · <a href="https://forum.mtaprovincex.ru/topic/2039-%D1%83%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4-%D0%B3%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/?do=findComment&amp;comment=8381" class="ipsType_blendLinks">Опубликовано <time datetime="2022-12-06T11:25:32Z" title="06.12.2022 11:25 " data-short="6 чс">6 часов назад</time></a></p>
-							<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsType_break ipsContained ipsSpacer_top ipsSpacer_half" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="6 lines" data-ipstruncate-watch="false" style="overflow-wrap: break-word;">
-								
-							</div>
-						</div>
-					</li>
-				
-					<li class="ipsDataItem">
-						<div class="ipsDataItem_icon ipsPos_top">
-							
-
-
-	<a href="https://forum.mtaprovincex.ru/profile/2059-thomas_sovetskiy/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2059-thomas_sovetskiy/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Thomas_Sovetskiy">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46287%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Thomas_Sovetskiy">
-	</a>
-
-						</div>
-						<div class="ipsDataItem_main">
-							<div class="ipsType_break ipsContained"><a href="https://forum.mtaprovincex.ru/topic/2014-%D1%83%D0%B2%D0%B4-%D0%B3%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D0%B6%D1%81%D0%BA-%D1%82%D1%80%D1%83%D0%B4%D0%BE%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2/?do=findComment&amp;comment=8378" title="Просмотр темы [УВД г.Приволжск] Трудоустройство в Старший Состав" class="ipsType_medium ipsTruncate ipsTruncate_line"> [УВД г.Приволжск] Трудоустройство в Старший Состав</a></div>
-							<p class="ipsType_reset ipsType_light ipsType_medium ipsType_blendLinks">От 
-
-
-<a href="https://forum.mtaprovincex.ru/profile/2059-thomas_sovetskiy/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/2059-thomas_sovetskiy/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252F" title="Перейти в профиль Thomas_Sovetskiy" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Thomas_Sovetskiy</span></a> · <a href="https://forum.mtaprovincex.ru/topic/2014-%D1%83%D0%B2%D0%B4-%D0%B3%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D0%B6%D1%81%D0%BA-%D1%82%D1%80%D1%83%D0%B4%D0%BE%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2/?do=findComment&amp;comment=8378" class="ipsType_blendLinks">Опубликовано <time datetime="2022-12-06T10:03:53Z" title="06.12.2022 10:03 " data-short="7 чс">7 часов назад</time></a></p>
-							<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsType_break ipsContained ipsSpacer_top ipsSpacer_half is-truncated" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="6 lines" data-ipstruncate-watch="false" style="overflow-wrap: break-word;">
-								Начальнику&nbsp;УВД города Приволжск&nbsp; 
-
-Генералу полиции Карателю Хусейну Хусейновичу 
-
-от гражданина Республики Провинция 
-Cоветского Томаса Сергеевича 
-
-&nbsp; 
-
-Заявление 
-&nbsp; 
-
-Я, Советский Томас Сергеевич, прошу... </div>
-						</div>
-					</li>
-				
+		<div class="ipsPad_half">
+			<ul class="ipsDataList">
+				<li class="ipsDataItem">
+					<div class="ipsDataItem_main ipsPos_middle">
+						<strong>Всего пользователей</strong>
+					</div>
+					<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+						<span class="ipsDataItem_stats_number">4</span>
+					</div>
+				</li>
+				<li class="ipsDataItem">
+					<div class="ipsDataItem_main ipsPos_middle">
+						<strong>Больше всего пользователей</strong>
+					</div>
+					<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+						<span class="ipsDataItem_stats_number">13</span><br>
+						<span class="ipsType_light ipsType_small"><time datetime="2022-05-18T21:58:24Z" title="05/18/22 09:58  PM" data-short="May 18">14 декабря</time></span>
+					</div>
+				</li>
 			</ul>
+			<hr class="ipsHr">
+			
+				<div class="ipsClearfix ipsPadding_bottom">
+					<div class="ipsPos_left ipsType_center cNewestMember">
+						
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_small" title="Go to Timur_Kozenikov&#39;s profile">
+		<img src="Forums - Lunik MC_files\userlogo-5.svg" alt="Timur_Kozenikov" loading="lazy">
+	</a>
+
+					</div>
+					<div class="ipsWidget_latestItem">
+						<strong class="ipsType_minorHeading">Новый пользователь</strong><br>
+						<span class="ipsType_normal">
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Timur_Kozenikov&#39;s profile" class="ipsType_break">FOXPUPO123</a></span><br>
+						<span class="ipsType_medium ipsType_light">Зарегистрирован <time datetime="2022-11-25T18:30:08Z" title="11/25/22 06:30  PM" data-short="Nov 25">Сегодня в 10:23</time></span>
+					</div>
+				</div>
+			
 		</div>
 	
-
-</li>
+</div></li>
 				
 					
-					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_forums_topicFeed_315u6som8" data-blockconfig="true" data-blocktitle="Лента тем" data-blockerrormessage="Этот блок не может быть показан. Причиной этому может быть необходимость его настройки, либо он будет отображён после перезагрузки этой страницы." data-controller="core.front.widgets.block">
+					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_core_achievements_vl2zbmfwz" data-blockconfig="true" data-blocktitle="Recent Achievements" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
 
-	<h3 class="ipsWidget_title ipsType_reset">Темы</h3>
+
+<h3 class="ipsType_reset ipsWidget_title">Последние достижения</h3>
+
+<div class="ipsPad_half ipsWidget_inner">
+	<ul class="ipsDataList ipsDataList_reducedSpacing">
+		
+			<li class="ipsDataItem">
+				
+					<div class="ipsDataItem_icon ipsPos_top">
+						<div class="ipsPos_relative">
+							<div class="cAchievementsWidget__badge">
+
+<span class="ipsPos_relative">
+    <img src="./Forums - Lunik MC_files/FirstTopic.svg" loading="lazy" alt="Conversation Starter" class="ipsOutline ipsDimension:5" data-ipstooltip="" _title="Conversation Starter">
+    
+</span></div>
+							<div class="cAchievementsWidget__photo">
+								
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tinier ipsOutline" title="Go to Timur_Kozenikov&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b762c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Timur_Kozenikov" loading="lazy">
+	</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="ipsDataItem_main ipsPadding_left:half">
+						
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252Findex.php%253F%252Fforum%252F15-test-31%252F%2526do%253Dadd" title="Go to Timur_Kozenikov&#39;s profile" class="ipsType_break">Timur_Kozenikov</a> earned a badge<br>						
+						<strong title="Started a discussion" data-ipstooltip="">Conversation Starter</strong><br>
+						<span class="ipsType_light"><time datetime="2022-11-25T18:32:51Z" title="11/25/22 06:32  PM" data-short="Nov 25">November 25</time></span>
+					</div>
+				
+			</li>
+		
+			<li class="ipsDataItem">
+				
+					<div class="ipsDataItem_icon ipsPos_top">
+						<div class="ipsPos_relative">
+							<div class="cAchievementsWidget__badge">
+<img src="./Forums - Lunik MC_files/2_Rookie.svg" loading="lazy" alt="Rookie" class="ipsDimension:5" data-ipstooltip="" title="Rank: Rookie (2/14)"></div>
+							<div class="cAchievementsWidget__photo">
+								
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tinier ipsOutline" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
+	</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="ipsDataItem_main ipsPadding_left:half">
+						
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252Findex.php%253F%252Fforum%252F15-test-31%252F%2526do%253Dadd" title="Go to Williams&#39;s profile" class="ipsType_break">Williams</a> went up a rank<br>
+						<strong>Rookie</strong><br>
+						<span class="ipsType_light"><time datetime="2022-11-10T02:38:21Z" title="11/10/22 02:38  AM" data-short="Nov 10">November 10</time></span>
+					</div>
+				
+			</li>
+		
+			<li class="ipsDataItem">
+				
+					<div class="ipsDataItem_icon ipsPos_top">
+						<div class="ipsPos_relative">
+							<div class="cAchievementsWidget__badge">
+
+<span class="ipsPos_relative">
+    <img src="./Forums - Lunik MC_files/FirstTopic.svg" loading="lazy" alt="Conversation Starter" class="ipsOutline ipsDimension:5" data-ipstooltip="" title="Conversation Starter">
+    
+</span></div>
+							<div class="cAchievementsWidget__photo">
+								
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tinier ipsOutline" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
+	</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="ipsDataItem_main ipsPadding_left:half">
+						
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252Findex.php%253F%252Fforum%252F15-test-31%252F%2526do%253Dadd" title="Go to Williams&#39;s profile" class="ipsType_break">Williams</a> earned a badge<br>						
+						<strong title="Started a discussion" data-ipstooltip="">Conversation Starter</strong><br>
+						<span class="ipsType_light"><time datetime="2022-11-10T02:05:09Z" title="11/10/22 02:05  AM" data-short="Nov 10">November 10</time></span>
+					</div>
+				
+			</li>
+		
+			<li class="ipsDataItem">
+				
+					<div class="ipsDataItem_icon ipsPos_top">
+						<div class="ipsPos_relative">
+							<div class="cAchievementsWidget__badge">
+
+<span class="ipsPos_relative">
+    <img src="./Forums - Lunik MC_files/SevenDaysRegistered.svg" loading="lazy" alt="Week One Done" class="ipsOutline ipsDimension:5" data-ipstooltip="" title="Week One Done">
+    
+</span></div>
+							<div class="cAchievementsWidget__photo">
+								
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=11" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=11&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tinier ipsOutline" title="Go to Napolion&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Napolion" loading="lazy">
+	</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="ipsDataItem_main ipsPadding_left:half">
+						
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=11" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=11&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252Findex.php%253F%252Fforum%252F15-test-31%252F%2526do%253Dadd" title="Go to Napolion&#39;s profile" class="ipsType_break">Napolion</a> earned a badge<br>						
+						<strong title="A week since joining" data-ipstooltip="">Week One Done</strong><br>
+						<span class="ipsType_light"><time datetime="2022-11-07T03:25:46Z" title="11/07/22 03:25  AM" data-short="Nov 7">November 7</time></span>
+					</div>
+				
+			</li>
+		
+			<li class="ipsDataItem">
+				
+					<div class="ipsDataItem_icon ipsPos_top">
+						<div class="ipsPos_relative">
+							<div class="cAchievementsWidget__badge">
+
+<span class="ipsPos_relative">
+    <img src="./Forums - Lunik MC_files/ThirtyDaysRegistered.svg" loading="lazy" alt="One Month Later" class="ipsOutline ipsDimension:5" data-ipstooltip="" title="One Month Later">
+    
+</span></div>
+							<div class="cAchievementsWidget__photo">
+								
+
+
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=1" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=1&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tinier ipsOutline" title="Go to StylesFactory&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46c62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="StylesFactory" loading="lazy">
+	</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="ipsDataItem_main ipsPadding_left:half">
+						
+
+
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=1" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=1&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252Findex.php%253F%252Fforum%252F15-test-31%252F%2526do%253Dadd" title="Go to StylesFactory&#39;s profile" class="ipsType_break">StylesFactory</a> earned a badge<br>						
+						<strong title="A month since joining" data-ipstooltip="">One Month Later</strong><br>
+						<span class="ipsType_light"><time datetime="2022-06-11T19:45:46Z" title="06/11/22 07:45  PM" data-short="Jun 11">June 11</time></span>
+					</div>
+				
+			</li>
+		
+	</ul>
+</div></li>
+				
+					
+					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_core_whosOnline_top5v1vtk" data-blockconfig="true" data-blocktitle="Who&#39;s Online" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+<div data-controller="core.front.core.onlineUsersWidget">
+    <h3 class="ipsType_reset ipsWidget_title">
+        Who's Online
+        
+        <span class="ipsType_medium ipsType_light ipsType_unbold ipsType_blendLinks"><a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=online&amp;controller=online">(See full list)</a></span>
+    </h3>
+    <div class="ipsWidget_inner ipsPadding">
+        <ul class="ipsList_inline ipsList_csv ipsList_noSpacing ipsType_normal">
+            
+                <li class="ipsType_reset ipsType_medium ipsType_light" data-noneonline="">There are no registered users currently online</li>
+            
+        </ul>
+        
+    </div>
+</div></li>
+				
+					
+					<li class="ipsWidget ipsWidget_vertical ipsBox  " data-blockid="app_forums_topicFeed_ljk2ne7gk" data-blockconfig="true" data-blocktitle="Topic Feed" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+
+	<h3 class="ipsWidget_title ipsType_reset">Последние ответы</h3>
 
 	
 		<div class="ipsPad_half ipsWidget_inner">
 			<ul class="ipsDataList ipsDataList_reducedSpacing">
 				
-					<li class="ipsDataItem">
+					<li class="ipsDataItem ">
 						<div class="ipsDataItem_icon ipsPos_top">
 							
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Husein_Karatel">
-		<img src="./Форумы - Lunik MC_files/4ABB505D-9301-4D02-9259-5E8D7ADE213D.thumb.jpeg.8c05878c67ae1fb4967fa3e3230f9aed.jpeg" alt="Husein_Karatel">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Timur_Kozenikov&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b762c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Timur_Kozenikov" loading="lazy">
 	</a>
 
 						</div>
 						<div class="ipsDataItem_main cWidgetComments">
-							<div class="ipsCommentCount ipsPos_right " data-ipstooltip="" title="4 ответа">4</div>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+							
 							<div class="ipsType_break ipsContained">
 															
-								<a href="https://forum.mtaprovincex.ru/topic/2192-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-egor_izmailovskiy/?do=getNewComment" title="Просмотр темы Жалоба на администратора Egor_Izmailovskiy" class="ipsDataItem_title is-truncated" data-ipstruncate="" data-ipstruncate-size="1 lines" data-ipstruncate-type="remove" style="overflow-wrap: break-word;">Жалоба на администратора... </a>
+								<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=12" title="View the topic UCE Russia Role Play" class="ipsDataItem_title">Правила технического раздела сервера Winter</a>
 							</div>
-							<p class="ipsType_reset ipsType_medium ipsType_light ipsType_blendLinks ipsContained">
+							<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
 								<span>
 
 
-<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252Findex.php" title="Перейти в профиль Husein_Karatel" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Husein_Karatel</span></a>, 
-								Создано <time datetime="2022-12-04T20:05:14Z" title="04.12.2022 20:05 " data-short="1 дн">Воскресенье в 20:05</time></span>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=13&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Timur_Kozenikov&#39;s profile" class="ipsType_break">k2cttort_pov</a></span><br>
+								<span class="ipsType_light">Started <time datetime="2022-11-25T18:28:21Z" title="11/25/22 06:28  PM" data-short="Nov 25">4 ноября</time></span>
 							</p>
 						</div>
 					</li>
 				
-					<li class="ipsDataItem">
+					<li class="ipsDataItem ">
 						<div class="ipsDataItem_icon ipsPos_top">
 							
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Rustam_Rothmans">
-		<img src="./Форумы - Lunik MC_files/1917204559__2021-10-26_182110.thumb.png.dc386b35f24f3dbed80df0be8e98def4.png" alt="Rustam_Rothmans">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
 	</a>
 
 						</div>
 						<div class="ipsDataItem_main cWidgetComments">
-							<div class="ipsCommentCount ipsPos_right " data-ipstooltip="" title="4 ответа">4</div>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+							
 							<div class="ipsType_break ipsContained">
-								
-									
-									
-										<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipstooltip="" title="Популярно"><i class="fa fa-star"></i></span></span>
-									
 															
-								<a href="https://forum.mtaprovincex.ru/topic/2072-%D0%BC%D0%BE%C2%A0%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/?do=getNewComment" title="Просмотр темы [МО] Заявление в старший состав организации" class="ipsDataItem_title is-truncated" data-ipstruncate="" data-ipstruncate-size="1 lines" data-ipstruncate-type="remove" style="overflow-wrap: break-word;">[МО]&nbsp;Заявление в старший... </a>
+								<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=11" title="View the topic BEST RP" class="ipsDataItem_title">Winter // Администрация сервера</a>
 							</div>
-							<p class="ipsType_reset ipsType_medium ipsType_light ipsType_blendLinks ipsContained">
+							<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
 								<span>
 
 
-<a href="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/22-rustam_rothmans/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252Findex.php" title="Перейти в профиль Rustam_Rothmans" class="ipsType_break"><span style="color:#d7755a; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Rustam_Rothmans</span></a>, 
-								Создано <time datetime="2022-11-03T16:37:17Z" title="03.11.2022 16:37 " data-short="3 нояб">3 ноября</time></span>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">k2cttort_pov</a></span><br>
+								<span class="ipsType_light">Started <time datetime="2022-11-10T02:38:21Z" title="11/10/22 02:38  AM" data-short="Nov 10">10 ноября</time></span>
 							</p>
 						</div>
 					</li>
 				
-					<li class="ipsDataItem">
+					<li class="ipsDataItem ">
 						<div class="ipsDataItem_icon ipsPos_top">
 							
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Erron_Rothmans">
-		<img src="./Форумы - Lunik MC_files/1572885920_vladyslav-liedienov-21061.thumb.jpg.7e8a02d7036db7cde83cdcb6a4b4aee7.jpg" alt="Erron_Rothmans">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
 	</a>
 
 						</div>
 						<div class="ipsDataItem_main cWidgetComments">
-							<div class="ipsCommentCount ipsPos_right " data-ipstooltip="" title="4 ответа">4</div>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+							
 							<div class="ipsType_break ipsContained">
 															
-								<a href="https://forum.mtaprovincex.ru/topic/2039-%D1%83%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4-%D0%B3%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/?do=getNewComment" title="Просмотр темы [УГИБДД г.Мирный] Заявление на увольнение." class="ipsDataItem_title is-truncated" data-ipstruncate="" data-ipstruncate-size="1 lines" data-ipstruncate-type="remove" style="overflow-wrap: break-word;">[УГИБДД г.Мирный]... </a>
+								<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=10" title="View the topic BEST RP" class="ipsDataItem_title">Winter // Благодарности администрации сервера</a>
 							</div>
-							<p class="ipsType_reset ipsType_medium ipsType_light ipsType_blendLinks ipsContained">
+							<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
 								<span>
 
 
-<a href="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/592-erron_rothmans/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252Findex.php" title="Перейти в профиль Erron_Rothmans" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Erron_Rothmans</span></a>, 
-								Создано <time datetime="2022-10-29T18:50:36Z" title="29.10.2022 18:50 " data-short="29 окт">29 октября</time></span>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">k2cttort_pov</a></span><br>
+								<span class="ipsType_light">Started <time datetime="2022-11-10T02:11:24Z" title="11/10/22 02:11  AM" data-short="Nov 10">3 декабря</time></span>
 							</p>
 						</div>
 					</li>
 				
-					<li class="ipsDataItem">
+					<li class="ipsDataItem ">
 						<div class="ipsDataItem_icon ipsPos_top">
 							
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Husein_Karatel">
-		<img src="./Форумы - Lunik MC_files/4ABB505D-9301-4D02-9259-5E8D7ADE213D.thumb.jpeg.8c05878c67ae1fb4967fa3e3230f9aed.jpeg" alt="Husein_Karatel">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
 	</a>
 
 						</div>
 						<div class="ipsDataItem_main cWidgetComments">
-							<div class="ipsCommentCount ipsPos_right " data-ipstooltip="" title="3 ответа">3</div>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+							
 							<div class="ipsType_break ipsContained">
 															
-								<a href="https://forum.mtaprovincex.ru/topic/2014-%D1%83%D0%B2%D0%B4-%D0%B3%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D0%B6%D1%81%D0%BA-%D1%82%D1%80%D1%83%D0%B4%D0%BE%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2/?do=getNewComment" title="Просмотр темы [УВД г.Приволжск] Трудоустройство в Старший Состав" class="ipsDataItem_title is-truncated" data-ipstruncate="" data-ipstruncate-size="1 lines" data-ipstruncate-type="remove" style="overflow-wrap: break-word;">[УВД г.Приволжск]... </a>
+								<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=9" title="View the topic BEST RP" class="ipsDataItem_title">Правила поведения на сервере #2</a>
 							</div>
-							<p class="ipsType_reset ipsType_medium ipsType_light ipsType_blendLinks ipsContained">
+							<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
 								<span>
 
 
-<a href="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/1992-husein_karatel/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252Findex.php" title="Перейти в профиль Husein_Karatel" class="ipsType_break"><span style="color:#2b9e2c; font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Husein_Karatel</span></a>, 
-								Создано <time datetime="2022-10-25T20:19:50Z" title="25.10.2022 20:19 " data-short="25 окт">25 октября</time></span>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">k2cttort_pov</a></span><br>
+								<span class="ipsType_light">Started <time datetime="2022-11-10T02:09:59Z" title="11/10/22 02:09  AM" data-short="Nov 10">27 ноября</time></span>
 							</p>
 						</div>
 					</li>
 				
-					<li class="ipsDataItem">
+					<li class="ipsDataItem ">
 						<div class="ipsDataItem_icon ipsPos_top">
 							
 
 
-	<a href="https://forum.mtaprovincex.ru/profile/704-emil_kadyrov/" data-ipshover="" data-ipshover-target="https://forum.mtaprovincex.ru/profile/704-emil_kadyrov/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Emil_Kadyrov">
-		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a1%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Emil_Kadyrov">
+	<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Williams&#39;s profile">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Williams" loading="lazy">
 	</a>
 
 						</div>
 						<div class="ipsDataItem_main cWidgetComments">
-							<div class="ipsCommentCount ipsPos_right " data-ipstooltip="" title="2 ответа">2</div>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+							
 							<div class="ipsType_break ipsContained">
 															
-								<a href="https://forum.mtaprovincex.ru/topic/2199-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BE%D1%82-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-lukky_luciano-%D0%B4%D0%BB%D1%8F-coleman/?do=getNewComment" title="Просмотр темы Обжалования наказания от администратора Lukky_Luciano (для Coleman)" class="ipsDataItem_title is-truncated" data-ipstruncate="" data-ipstruncate-size="1 lines" data-ipstruncate-type="remove" style="overflow-wrap: break-word;">Обжалования наказания от... </a>
+								<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=topic&amp;id=8" title="View the topic BEST RP" class="ipsDataItem_title">Правила общего чата</a>
 							</div>
-							<p class="ipsType_reset ipsType_medium ipsType_light ipsType_blendLinks ipsContained">
+							<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
 								<span>
 
 
-<a href="https://forum.mtaprovincex.ru/profile/704-emil_kadyrov/" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://forum.mtaprovincex.ru/profile/704-emil_kadyrov/?do=hovercard&amp;wr=&amp;referrer=https%253A%252F%252Fforum.mtaprovincex.ru%252Findex.php" title="Перейти в профиль Emil_Kadyrov" class="ipsType_break"><span style="font-family:Nunito Sans,Helvetica Neue,Helvetica, Arial, sans-serif;">Emil_Kadyrov</span></a>, 
-								Создано <time datetime="2022-12-06T09:23:59Z" title="06.12.2022 09:23 " data-short="8 чс">8 часов назад</time></span>
+<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=12&amp;do=hovercard&amp;referrer=https%253A%252F%252Fipb.stylesfactory.pl%252F" title="Go to Williams&#39;s profile" class="ipsType_break">lunik_cuza</a></span><br>
+								<span class="ipsType_light">Started <time datetime="2022-11-10T02:01:44Z" title="11/10/22 02:01  AM" data-short="Nov 10">28 октября</time></span>
 							</p>
 						</div>
 					</li>
 				
 			</ul>
-</div>
+		</div>
 	
 </li>
 				
@@ -2470,7 +2514,7 @@ Cоветского Томаса Сергеевича
 
 	</div>
 
-					
+                    </div>
 					
 <nav class="ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover">
 	
@@ -2482,15 +2526,15 @@ Cоветского Томаса Сергеевича
 	<ul class="ipsList_inline ipsPos_right">
 		
 		<li>
-			<a data-action="defaultStream" class="ipsType_light " href="https://forum.mtaprovincex.ru/discover/"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>Активность</span></a>
+			<a data-action="defaultStream" class="ipsType_light " href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>All Activity</span></a>
 		</li>
 		
 	</ul>
 
 	<ul data-role="breadcrumbList">
 		<li>
-			<a title="Главная" href="https://forum.mtaprovincex.ru/">
-				<span>Главная</span>
+			<a title="Home" href="https://ipb.stylesfactory.pl/">
+				<span>Home</span>
 			</a>
 		</li>
 		
@@ -2500,49 +2544,224 @@ Cоветского Томаса Сергеевича
 				</div>
 			</div>
 			
-		</main>
 		
+
+</main>
+        <!-- THEME CUSTOM FOOTER -->
+        
+ 		    
+     <div class="verti_custom_foot_width">
+           <div class="verti_panels">
+              <div class="vcf">
+                  <div class="vcf_padding">
+                      <h3 class="vcf_bottom">Panel Title #1</h3>
+                      <div class="vcf_more_padding">
+                      <p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+
+                      </div>
+                  </div>
+              </div>
+              <div class="vcf">
+                  <div class="vcf_padding">
+                      <h3 class="vcf_bottom">Panel Title #2</h3>
+                      <div class="vcf_more_padding">
+                      <p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+
+                      </div>
+                  </div>
+              </div>
+              <div class="vcf">
+                  <div class="vcf_padding">
+                      <h3 class="vcf_bottom">Panel Title #3</h3>
+                      <div class="vcf_more_padding">
+                      <ul>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+</ul>
+
+                      </div>
+                  </div>
+              </div>
+              <div class="vcf">
+                  <div class="vcf_padding">
+                      <h3 class="vcf_bottom">Panel Title #4</h3>
+                      <div class="vcf_more_padding">
+                      <ul>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+	<li>
+		<a href="https://ipb.stylesfactory.pl/#" rel="">YOUR LINK NAME</a>
+	</li>
+</ul>
+
+                      </div>
+                  </div>
+              </div>  
+          </div>
+        </div>
+	    
+        <!-- THEME CUSTOM FOOTER END -->
 		<footer id="ipsLayout_footer" class="ipsClearfix">
 			<div class="ipsLayout_container">
 				
 				
 
 
-<ul class="ipsList_inline" id="elFooterLinks">
+<ul class="ipsList_inline ipsType_center ipsSpacer_top" id="elFooterLinks">
 	
 	
 	
 	
+		<li>
+			<a href="https://ipb.stylesfactory.pl/#elNavTheme_menu" id="elNavTheme" data-ipsmenu="" data-ipsmenu-above="">Theme <i class="fa fa-caret-down"></i></a>
+			<ul id="elNavTheme_menu" class="ipsMenu ipsMenu_selectable ipsHide">
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="1" class="ipsButton ipsButton_link ipsButton_link_secondary">Default </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="2" class="ipsButton ipsButton_link ipsButton_link_secondary">Abstract Dark </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="3" class="ipsButton ipsButton_link ipsButton_link_secondary">ClanZ </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="4" class="ipsButton ipsButton_link ipsButton_link_secondary">ClanZ Light </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="6" class="ipsButton ipsButton_link ipsButton_link_secondary">Rain </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="7" class="ipsButton ipsButton_link ipsButton_link_secondary">RolePlay Dark </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="8" class="ipsButton ipsButton_link ipsButton_link_secondary">RolePlay Light </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="9" class="ipsButton ipsButton_link ipsButton_link_secondary">Snow </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="10" class="ipsButton ipsButton_link ipsButton_link_secondary">Vertiforo Dark </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="11" class="ipsButton ipsButton_link ipsButton_link_secondary">Vertiforo Light </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="12" class="ipsButton ipsButton_link ipsButton_link_secondary">FiveStyle </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item ipsMenu_itemChecked">
+					<form action="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=theme&amp;csrfKey=8e774232bb824ec593a5e2ca86b9cdb5" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9pcGIuc3R5bGVzZmFjdG9yeS5wbC8=">
+					<button type="submit" name="id" value="15" class="ipsButton ipsButton_link ipsButton_link_secondary">Dark Rainbow (Default)</button>
+					</form>
+				</li>
+			
+			</ul>
+		</li>
 	
 	
-		<li><a rel="nofollow" href="https://forum.mtaprovincex.ru/contact/" data-ipsdialog="" data-ipsdialog-remotesubmit="" data-ipsdialog-flashmessage="Спасибо, ваше сообщение было отправлено администраторам." data-ipsdialog-title="Обратная связь">Обратная связь</a></li>
+	
+		<li><a rel="nofollow" href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=contact&amp;controller=contact" data-ipsdialog="" data-ipsdialog-remotesubmit="" data-ipsdialog-flashmessage="Thanks, your message has been sent to the administrators." data-ipsdialog-title="Contact Us">Contact Us</a></li>
 	
 </ul>	
 
 
 <p id="elCopyright">
 	<span id="elCopyright_userLine"></span>
-	<a rel="nofollow" title="Invision Community" href="https://www.invisioncommunity.com/">Powered by Invision Community</a><br><a href="https://ipbmafia.ru/" style="display:none">Поддержка Invision Community в России</a>
-<a href="https://www.templanet.dev/" id="lkCopyright" data-ipstooltip="" _title="Go to Themes Store" style="display:table!important;visibility:visible!important;overflow:visible!important;opacity:1!important;font-size:12px!important;">Theme by Templanet</a></p>
-			    <!--<center style='font-size: 12px; color: #888d9d'>Copyright © 2019 Danman</center>-->
-                <center style="font-size: 12px; color: #888d9d">Powered by Invision Community</center>
-            </div>
+	<a rel="nofollow" title="Invision Community" href="https://www.invisioncommunity.com/">Powered by Invision Community</a>
+</p>
+                <!-- THEME FOOTER -->
+                <div id="stylesfooter">Dark Rainbow for IPB theme by <a href="https://stylesfactory.pl/" alt="Invision Power Board styles">StylesFactory.pl</a>
+</div>
+                <!-- THEME FOOTER END -->
+			</div>
 		</footer>
 		
 <div id="elMobileDrawer" class="ipsDrawer ipsHide">
 	<div class="ipsDrawer_menu">
-		<a href="https://forum.mtaprovincex.ru/#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
-		<div class="ipsDrawer_content">
+		<a href="https://ipb.stylesfactory.pl/#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<div class="ipsDrawer_content ipsFlex ipsFlex-fd:column">
 			
-				<div class="ipsPadding">
+				<div class="ipsPadding ipsBorder_bottom">
 					<ul class="ipsToolList ipsToolList_vertical">
 						<li>
-							<a href="https://forum.mtaprovincex.ru/login/" id="elSigninButton_mobile" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Уже зарегистрированы? Войти</a>
+							<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=login" id="elSigninButton_mobile" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Existing user? Sign In</a>
 						</li>
 						
 							<li>
 								
-									<a href="https://forum.mtaprovincex.ru/register/" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Регистрация" data-ipsdialog-fixed="true" id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Регистрация</a>
+									<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=system&amp;controller=register" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" data-ipsdialog-fixed="true" id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Sign Up</a>
 								
 							</li>
 						
@@ -2550,180 +2769,115 @@ Cоветского Томаса Сергеевича
 				</div>
 			
 
-			<ul class="ipsDrawer_list">
-				
-
-				
-				
-				
-				
-					
-						
-						
-							<li class="ipsDrawer_itemParent">
-								<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">Форум</a></h4>
-								<ul class="ipsDrawer_list">
-									<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
-
-									
-									
-										
-
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/guidelines/">
-					Правила
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/staff/">
-					Модераторы
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/leaderboard/">
-					Лидеры
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/search/">
-					Поиск
-				</a>
-			</li>
-		
-	
-
-										
-								</ul>
-							</li>
-						
-					
-				
-					
-						
-						
-							<li class="ipsDrawer_itemParent">
-								<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">Правила серверов</a></h4>
-								<ul class="ipsDrawer_list">
-									<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
-
-									
-										
-
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/15-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B2%D0%BF%D1%81/?tab=comments">
-					1 сервер
-				</a>
-			</li>
-		
-	
-
-									
-										
-								</ul>
-							</li>
-						
-					
-				
-					
-						
-						
-							<li class="ipsDrawer_itemParent">
-								<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">Жалобы на игроков</a></h4>
-								<ul class="ipsDrawer_list">
-									<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
-
-									
-										
-
-
-	
-		
 			
-			<li class="ipsDrawer_itemParent">
-				<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">1 сервер</a></h4>
-				<ul class="ipsDrawer_list">
-					<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
+
+			<ul class="ipsDrawer_list ipsFlex-flex:11">
+				
+
+				
+				
+				
+				
 					
-					
-
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/1065-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2/">
-					Жалобы на гражданских игроков
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/847-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1-%D0%BD%D0%B0-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D1%85-%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%D1%85/">
-					Жалобы на игроков в гос.организациях
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/96-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/">
-					Жалобы на лидеров организаций
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/781-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1-%D0%BD%D0%B0-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D1%85-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA/">
-					Жалобы на игроков в преступных группировках
-				</a>
-			</li>
-		
-	
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/883-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B-%D0%BD%D0%B0-%D0%BC%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC/">
-					Жалобы на мошенничество
-				</a>
-			</li>
-		
-	
-
-				</ul>
-			</li>
-		
-	
-
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="https://ipb.stylesfactory.pl/#">Browse</a></h4>
+								<ul class="ipsDrawer_list">
+									<li data-action="back"><a href="https://ipb.stylesfactory.pl/#">Back</a></li>
 									
+									
+										
+										
+										
+											
+										
+											
+												
+											
+										
+											
+												
+											
+										
+											
+										
+											
+												
+											
+										
+											
+												
+											
+										
+											
+												
+											
+										
+									
+													
+									
+										<li><a href="https://ipb.stylesfactory.pl/">Browse</a></li>
+									
+									
+									
+										
+
+
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">
+					Forums
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=calendar&amp;module=calendar&amp;controller=view">
+					Events
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=staffdirectory&amp;controller=directory">
+					Staff
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=online&amp;controller=online">
+					Online Users
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=popular&amp;tab=leaderboard">
+					Leaderboard
+				</a>
+			</li>
+		
+	
+
 										
 								</ul>
 							</li>
@@ -2734,10 +2888,22 @@ Cоветского Томаса Сергеевича
 						
 						
 							<li class="ipsDrawer_itemParent">
-								<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">Обжалование наказаний</a></h4>
+								<h4 class="ipsDrawer_title"><a href="https://ipb.stylesfactory.pl/#">Activity</a></h4>
 								<ul class="ipsDrawer_list">
-									<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
-
+									<li data-action="back"><a href="https://ipb.stylesfactory.pl/#">Back</a></li>
+									
+									
+										
+										
+										
+											
+												
+													
+													
+									
+													
+									
+									
 									
 										
 
@@ -2745,14 +2911,31 @@ Cоветского Томаса Сергеевича
 	
 		
 			<li>
-				<a href="https://forum.mtaprovincex.ru/topic/1254-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B8-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8E-%D0%BE%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F/">
-					1 сервер
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=discover&amp;controller=streams">
+					All Activity
 				</a>
 			</li>
 		
 	
 
-									
+	
+
+	
+
+	
+
+	
+		
+			<li>
+				<a href="https://ipb.stylesfactory.pl/index.php?app=core&amp;module=search&amp;controller=search">
+					Search
+				</a>
+			</li>
+		
+	
+
+	
+
 										
 								</ul>
 							</li>
@@ -2762,94 +2945,51 @@ Cоветского Томаса Сергеевича
 					
 						
 						
-							<li class="ipsDrawer_itemParent">
-								<h4 class="ipsDrawer_title"><a href="https://forum.mtaprovincex.ru/#">Активность</a></h4>
-								<ul class="ipsDrawer_list">
-									<li data-action="back"><a href="https://forum.mtaprovincex.ru/#">Назад</a></li>
-
-									
-									
-										
-
-
-	
-		
-			<li>
-				<a href="https://forum.mtaprovincex.ru/discover/">
-					Активность
-				</a>
-			</li>
-		
-	
-
-	
-
-	
-
-	
-
-										
-								</ul>
-							</li>
+							<li><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">Menu test #1</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">Menu test #2</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://ipb.stylesfactory.pl/index.php?app=forums&amp;module=forums&amp;controller=index">Menu test #3</a></li>
 						
 					
 				
 				
 			</ul>
+
+			
 		</div>
 	</div>
 </div>
 
 <div id="elMobileCreateMenuDrawer" class="ipsDrawer ipsHide">
 	<div class="ipsDrawer_menu">
-		<a href="https://forum.mtaprovincex.ru/#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<a href="https://ipb.stylesfactory.pl/#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
 		<div class="ipsDrawer_content ipsSpacer_bottom ipsPad">
 			<ul class="ipsDrawer_list">
-				<li class="ipsDrawer_listTitle ipsType_reset">Создать...</li>
+				<li class="ipsDrawer_listTitle ipsType_reset">Create New...</li>
 				
 			</ul>
 		</div>
 	</div>
 </div>
 		
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-
-<div id="elGuestTerms" class="ipsPad_half ipsJS_hide" data-role="guestTermsBar" data-controller="core.front.core.guestTerms" style="display: block;">
-	<div class="ipsLayout_container">
-		<div class="ipsGrid ipsGrid_collapsePhone">
-			<div class="ipsGrid_span10">
-				<h2 class="ipsType_sectionHead">Важная информация</h2>
-				<p class="ipsType_reset ipsType_medium cGuestTerms_contents">В правила форума был добавлен новый пункт «25. - Использовать в никнейме/аватарке/профиле - текст/фото/видео/аудио политического или прямо относящего к войне характера». Ознакомиться с правилами вы можете на <a href="https://forum.mtaprovincex.ru/guidelines/">Правила</a></p>
-			</div>
-			<div class="ipsGrid_span2">
-				<a href="https://forum.mtaprovincex.ru/index.php?app=core&amp;module=system&amp;controller=terms&amp;do=dismiss&amp;ref=aHR0cHM6Ly9mb3J1bS5tdGFwcm92aW5jZXgucnUv&amp;csrfKey=1d328157ff3352d9431913d7f45ab46b" rel="nofollow" class="ipsButton ipsButton_veryLight ipsButton_large ipsButton_fullWidth" data-action="dismissTerms"><i class="fa fa-check"></i>&nbsp; Я принимаю</a>
-			</div>
-		</div>
-	</div>
-</div>
 		
 
 	
 	<script type="text/javascript">
 		var ipsDebug = false;		
 	
-		var CKEDITOR_BASEPATH = '//forum.mtaprovincex.ru/applications/core/interface/ckeditor/ckeditor/';
+		var CKEDITOR_BASEPATH = '//ipb.stylesfactory.pl/applications/core/interface/ckeditor/ckeditor/';
 	
 		var ipsSettings = {
 			
@@ -2864,22 +3004,23 @@ Cоветского Томаса Сергеевича
 			upload_imgURL: "",
 			message_imgURL: "",
 			notification_imgURL: "",
-			baseURL: "//forum.mtaprovincex.ru/",
-			jsURL: "//forum.mtaprovincex.ru/applications/core/interface/js/js.php",
-			csrfKey: "1d328157ff3352d9431913d7f45ab46b",
-			antiCache: "4e52a1ea3c1665571061",
-			jsAntiCache: "4e52a1ea3c1665515059",
+			baseURL: "//ipb.stylesfactory.pl/",
+			jsURL: "//ipb.stylesfactory.pl/applications/core/interface/js/js.php",
+			csrfKey: "8e774232bb824ec593a5e2ca86b9cdb5",
+			antiCache: "787ef0a4331669760201",
+			jsAntiCache: "787ef0a4331671198528",
 			disableNotificationSounds: true,
 			useCompiledFiles: true,
 			links_external: true,
 			memberID: 0,
 			lazyLoadEnabled: true,
-			blankImg: "//forum.mtaprovincex.ru/applications/core/interface/js/spacer.png",
-			analyticsProvider: "ga",
+			blankImg: "//ipb.stylesfactory.pl/applications/core/interface/js/spacer.png",
+			googleAnalyticsEnabled: false,
+			matomoEnabled: false,
 			viewProfiles: true,
 			mapProvider: 'none',
 			mapApiKey: '',
-			pushPublicKey: "BGEiZqdl1iuu4G9kHUEKtM9owXQf6eMKvmTwyQ2aY6FiayDBcZvUndOpQeVn8CSwqXlTrggZZMm2PNtDdEY-xa0",
+			pushPublicKey: null,
 			relativeDates: true
 		};
 		
@@ -2898,41 +3039,38 @@ Cоветского Томаса Сергеевича
 
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/root_library.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/root_library.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/root_js_lang_2.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/root_js_lang_1.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/root_framework.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/root_framework.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/global_global_core.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/global_global_core.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/plugins_plugins.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/root_front.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/root_front.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/front_front_core.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/front_front_core.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/front_front_forum.js.завантаження" data-ips=""></script>
 
 
-<script type="text/javascript" src="./Форумы - Lunik MC_files/front_front_forum.js.завантаження" data-ips=""></script>
-
-
-<script type="text/javascript" src="./Форумы - Lunik MC_files/root_map.js.завантаження" data-ips=""></script>
+<script type="text/javascript" src="./Forums - Lunik MC_files/root_map.js.завантаження" data-ips=""></script>
 
 
 
 	<script type="text/javascript">
 		
-			ips.setSetting( 'date_format', jQuery.parseJSON('"dd.mm.yy"') );
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
 		
 			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
 		
-			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"black"') );
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
 		
 			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
 		
@@ -2950,6 +3088,8 @@ Cоветского Томаса Сергеевича
 		
 			ips.setSetting( 'cloud2', jQuery.parseJSON('false') );
 		
+			ips.setSetting( 'isAnonymous', jQuery.parseJSON('false') );
+		
 		
 	</script>
 
@@ -2958,22 +3098,22 @@ Cоветского Томаса Сергеевича
 <script type="application/ld+json">
 {
     "@context": "http://www.schema.org",
-    "publisher": "https://forum.mtaprovincex.ru/#organization",
+    "publisher": "https://ipb.stylesfactory.pl/#organization",
     "@type": "WebSite",
-    "@id": "https://forum.mtaprovincex.ru/#website",
-    "mainEntityOfPage": "https://forum.mtaprovincex.ru/",
-    "name": "Province X",
-    "url": "https://forum.mtaprovincex.ru/",
+    "@id": "https://ipb.stylesfactory.pl/#website",
+    "mainEntityOfPage": "https://ipb.stylesfactory.pl/",
+    "name": "Invision Community Demo for StylesFactory.pl",
+    "url": "https://ipb.stylesfactory.pl/",
     "potentialAction": {
         "type": "SearchAction",
         "query-input": "required name=query",
-        "target": "https://forum.mtaprovincex.ru/search/?q={query}"
+        "target": "https://ipb.stylesfactory.pl/index.php?app=core\u0026module=search\u0026controller=search\u0026q={query}"
     },
     "inLanguage": [
         {
             "@type": "Language",
-            "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (RU)",
-            "alternateName": "ru-RU"
+            "name": "English (USA)",
+            "alternateName": "en-US"
         }
     ]
 }	
@@ -2983,10 +3123,15 @@ Cоветского Томаса Сергеевича
 {
     "@context": "http://www.schema.org",
     "@type": "Organization",
-    "@id": "https://forum.mtaprovincex.ru/#organization",
-    "mainEntityOfPage": "https://forum.mtaprovincex.ru/",
-    "name": "Province X",
-    "url": "https://forum.mtaprovincex.ru/"
+    "@id": "https://ipb.stylesfactory.pl/#organization",
+    "mainEntityOfPage": "https://ipb.stylesfactory.pl/",
+    "name": "Invision Community Demo for StylesFactory.pl",
+    "url": "https://ipb.stylesfactory.pl/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "https://ipb.stylesfactory.pl/#logo",
+        "url": "https://ipb.stylesfactory.pl/uploads/monthly_2022_11/logo.png.e7b40e1ed0e1832b7db9caba56c14acd.png"
+    }
 }	
 </script>
 
@@ -2994,185 +3139,29 @@ Cоветского Томаса Сергеевича
 {
     "@context": "http://schema.org",
     "@type": "ContactPage",
-    "url": "https://forum.mtaprovincex.ru/contact/"
+    "url": "https://ipb.stylesfactory.pl/index.php?app=core\u0026module=contact\u0026controller=contact"
 }	
 </script>
 
 
 		
-<script type="text/javascript" src="./Форумы - Lunik MC_files/549f530ee2787b21223a5247ecbfe5b3_lk_scripts.js.завантаження"></script><!-------------------------------------------
-| Theme by Templanet                       |
-| Visit my website https://www.templanet.dev |
--------------------------------------------->
-
-<script type="text/javascript">
-    
-    
-  	
-   	
-    
-</script>
-
-<script type="text/javascript">
-$(document).ready(function () {
-  
-	var headerSlider = new Swiper('.swiper-header', {
-		lazy: true,
-		lazy: {
-			loadPrevNext: true,
-		},
-		grabCursor: true,
-  	    watchSlidesProgress: true,
-		slidesPerView: 1,
-		speed: 400,
-		roundLengths: true,
-		centeredSlides: true,
-		autoplay: {
-      delay: 6500,
-      disableOnInteraction: true,
-    },
-    navigation: {
-      nextEl: '.swiper-header-next',
-      prevEl: '.swiper-header-prev',
-    },
-		pagination: {
-        el: '.swiper-pagination',
-				dynamicBullets: true,
-      },
-		effect: 'slide',
-		
-			loop: true,
-			loopedSlides: 3,
-		
-		
-		on: {
-			progress: function() {
-				for (var i = 0; i < this.slides.length; i++) {
-					var slideProgress = this.slides[i].progress;
-					var innerOffset = this.width * 0.3;
-					var innerTranslate = slideProgress * innerOffset;
-
-					this.slides[i].querySelector(".slide-image").style.transform = "translate3d(" + innerTranslate + "px, 0, 0)";
-				}
-			},
-			touchStart: function() {
-				for (var i = 0; i < this.slides.length; i++) {
-					this.slides[i].style.transition = "";
-				}
-			},
-			setTransition: function(speed) {
-				for (var i = 0; i < this.slides.length; i++) {
-					this.slides[i].style.transition = speed + "ms";
-					this.slides[i].querySelector(".slide-image").style.transition =
-						speed + "ms";
-				}
-			}
-		},
-
-  });
-
-  
-  
-});
-
-</script>
-
-<script type="text/javascript">
-  
-   $(document).on('mouseenter', "#lkNav_mainContainer ul > li, #lkNav_subContainer nav ul > li", function(e) {
-     var elem = $(this);
-     var offsetlk = elem.offset();
-     var position = offsetlk.left;
-     var elemWidth = elem.width();
-     var dropMenu = elem.children('ul');
-     var menuWidth = dropMenu.outerWidth();
-     var winWidth = $(window).width();
-     if(position > menuWidth && winWidth - position < elemWidth + menuWidth){
-     	elem.removeClass('dropdownRight');
-     	elem.addClass('dropdownLeft');
-     }else{
-     	elem.removeClass('dropdownLeft');
-     	elem.addClass('dropdownRight');
-     }
-     e.stopPropagation();
-  });
-	
-	function lkNavOverflow() {
-	  var iteminit = document.querySelectorAll("ul.lkNav_primary > li:not(.lkNav_more)");
-	  var itemlengthinit = iteminit.length;
-	  var itemwidthinit = [];
-	  var i = null;
-	  for(i=0; i<itemlengthinit ;i++){
-		  itemwidthinit[i] = iteminit[i].offsetWidth;
-	  }
-	  function Update(){
-		  var item = document.querySelectorAll("ul.lkNav_primary > li:not(.lkNav_more)");
-		  var navprimary = document.querySelector("ul.lkNav_primary");
-		  var navprimaryoverflowul = document.querySelector("ul.lkNav_primary > li.lkNav_more > ul");
-		  navprimary.style.width = "";
-		  for(i = 0; i<item.length ; i++ ){
-			  item[i].style.display = "none";
-		  }
-		  var navwidth = navprimary.offsetWidth;
-		  navprimary.style.width = navwidth + "px";
-
-		  var availablespace = navprimary.offsetWidth - document.querySelector("ul.lkNav_primary > li.lkNav_more").offsetWidth;
-		  for(i = 0; i<item.length ; i++ ){
-			  item[i].style.display = "";
-		  }
-		  for(i = 0; i<item.length ; i++  ){
-			  if(document.querySelector("ul.lkNav_primary > li:not(.lkNav_more):first-child").offsetLeft < navprimary.offsetLeft ){
-				  navprimaryoverflowul.append(document.querySelector("ul.lkNav_primary > li:not(.lkNav_more):first-child"));
-			  }else{
-				if(document.querySelector("ul.lkNav_primary > li:first-child").offsetLeft  > navprimary.offsetLeft+100){
-					if(document.querySelector("ul.lkNav_primary > li.lkNav_more > ul > li:last-child")){
-					navprimary.prepend(document.querySelector("ul.lkNav_primary > li.lkNav_more > ul > li:last-child"));}
-				}
-			  }
-		  }
-		  if(navprimaryoverflowul.childElementCount > 0){
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.visibility = "";
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.width = "";
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.overflow = "";
-		  }else{
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.visibility = "hidden";
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.width = "0";
-			  document.querySelector("ul.lkNav_primary > li.lkNav_more").style.overflow = "hidden";
-		  }
-	  }
-	  $(window).resize(Update);
-	  $(window).ready(Update);
-  }
-  $(document).ready(lkNavOverflow);
-
-
-</script>
-
-
-<script type="text/javascript">
-$(window).load(function() {
-  $("body").removeClass("preload");
-});
-</script>
-		
-		
 		<!--ipsQueryLog-->
 		<!--ipsCachingLog-->
 		
 		
-      <script>
-         $("#ballsNewYear").ready(function() {
-            if(localStorage.getItem("garland") === null){
-                $("#ballsNewYear").addClass("b-page_newyear");
-                localStorage.setItem("garland", true);
-            }
-            else if(localStorage.getItem("garland") == "true"){
-                $("#ballsNewYear").addClass("b-page_newyear");
-            }
-        });
-      </script>
-      <script type="text/javascript" src="./Форумы - Lunik MC_files/script.js.завантаження"></script>
-      <link rel="stylesheet" href="./Форумы - Lunik MC_files/style.css">
-	<script defer="" src="./Форумы - Lunik MC_files/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;7756e9781df99bd6&quot;,&quot;version&quot;:&quot;2022.11.3&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;9c19c8d6fbe34b5faab9854a99800d95&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+		
+      <!-- ANIMATION ELEMENTS -->
+        
+		<script>
+		  AOS.init();
+		</script>
+		
+        <!-- ANIMATION ELEMENTS -->
+       <!-- CONTENT SLIDER ELEMENT -->
+      	
+        <!-- CONTENT SLIDER END -->
+		
+        
+	
 
-<span style="visibility: hidden; position: absolute; top: -300px; width: 1px; height: 1px; overflow: hidden; left: -300px;"><span class="ipsLoading ipsLoading_noAnim" style="display: block;"></span></span></body></html>
+<span style="visibility: hidden; position: absolute; top: -300px; width: 1px; height: 1px; overflow: hidden; left: -300px;"><span class="ipsLoading ipsLoading_noAnim" style="display: block;"></span></span>  <div id="ipsTooltip" class="ipsTooltip ipsType_noBreak ipsTooltip_top" role="tooltip" style="left: 1271.83px; top: 1165.88px; position: absolute; z-index: 5050; display: none;" animating="false">Conversation Starter</div></body></html>
